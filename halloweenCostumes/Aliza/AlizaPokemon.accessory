@@ -1,0 +1,13 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.accessories.fullBodyOutfits.AlizaPokemon",
+  "kind": "Shirt",
+  "model": "mods/PumpkingFeastExpansion/halloweenCostumes/Aliza/AlizaPokemon.qb",
+  "palettes": [
+    "staxel.palette.grey"
+  ],
+  "searchable": false,
+  "subcategory": "tshirt"
+}

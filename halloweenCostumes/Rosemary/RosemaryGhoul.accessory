@@ -1,0 +1,13 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.accessories.fullBodyOutfits.RosemaryGhoul",
+  "kind": "Shirt",
+  "model": "mods/PumpkingFeastExpansion/halloweenCostumes/Rosemary/RosemaryGhoul.qb",
+  "palettes": [
+    "staxel.palette.grey"
+  ],
+  "searchable": false,
+  "subcategory": "tshirt"
+}

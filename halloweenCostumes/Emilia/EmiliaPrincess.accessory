@@ -1,0 +1,13 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.accessories.fullBodyOutfits.EmiliaPrincess",
+  "kind": "Shirt",
+  "model": "mods/PumpkingFeastExpansion/halloweenCostumes/Emilia/EmiliaPrincess.qb",
+  "palettes": [
+    "staxel.palette.grey"
+  ],
+  "searchable": false,
+  "subcategory": "tshirt"
+}

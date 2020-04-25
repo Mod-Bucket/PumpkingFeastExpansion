@@ -1,0 +1,99 @@
+{
+    "file": "staxel/festivals/PumpkingFeast.festival", 
+    "priority": 2, 
+    "mergeLists": false, 
+    "patch" : {
+  "villagerOverrides": [
+    {
+      "villager": "Riah",
+      "primaryDialogue": "staxel.village.character.dialogue.festival.RiahPumpkingFeast",
+      "suppressPersonality": true,
+      "suppressJob": true,
+      "festivalBehaviour": [
+        {
+          "script": "staxel.script.ChillAtTavernScript",
+          "weight": 10.0
+        }
+      ]
+    },
+    {  
+        "villager": "Aliza",
+        "suppressJob": false,
+        "suppressPersonality": false,
+        "outfit": "mods.mb.PumpkingFeastExpansion.outfit.AlizaPokemon"
+      },
+      {  
+        "villager": "Cecile",
+        "suppressJob": false,
+        "suppressPersonality": false,
+        "outfit": "mods.mb.PumpkingFeastExpansion.outfit.CecileGhostBuster"
+      },
+      {  
+        "villager": "Cirahna",
+        "suppressJob": false,
+        "suppressPersonality": false,
+        "outfit": "mods.mb.PumpkingFeastExpansion.outfit.CirahnaWitch"
+      },
+      {  
+        "villager": "Emilia",
+        "suppressJob": false,
+        "suppressPersonality": false,
+        "outfit": "mods.mb.PumpkingFeastExpansion.outfit.EmiliaPrincess"
+      },	
+      {  
+        "villager": "Eris",
+        "suppressJob": false,
+        "suppressPersonality": false,
+        "outfit": "mods.mb.PumpkingFeastExpansion.outfit.ErisDevil"
+      },	
+      {  
+        "villager": "FarmFan",
+        "suppressJob": false,
+        "suppressPersonality": false,
+        "outfit": "mods.mb.PumpkingFeastExpansion.outfit.FarmFanZombie"
+      },	
+      {  
+        "villager": "Jamie",
+        "suppressJob": false,
+        "suppressPersonality": false,
+        "outfit": "mods.mb.PumpkingFeastExpansion.outfit.JamieAmazonBoxHead"
+      },	
+      {  
+        "villager": "Leif",
+        "suppressJob": false,
+        "suppressPersonality": false,
+        "outfit": "mods.mb.PumpkingFeastExpansion.outfit.LeifBatman"
+      },
+      {  
+        "villager": "Maximilian",
+        "suppressJob": false,
+        "suppressPersonality": false,
+        "outfit": "mods.mb.PumpkingFeastExpansion.outfit.MaxPickleRick"
+      },
+      {  
+        "villager": "Oscar",
+        "suppressJob": false,
+        "suppressPersonality": false,
+        "outfit": "mods.mb.PumpkingFeastExpansion.outfit.OscarSkeleton"
+      },
+      {  
+        "villager": "Rosemary",
+        "suppressJob": false,
+        "suppressPersonality": false,
+        "outfit": "mods.mb.PumpkingFeastExpansion.outfit.RosemaryGhoul"
+      },
+      {  
+        "villager": "Rowan",
+        "suppressJob": false,
+        "suppressPersonality": false,
+        "outfit": "mods.mb.PumpkingFeastExpansion.outfit.RowanKFC"
+      },	
+      {  
+        "villager": "Vorlen",
+        "suppressJob": false,
+        "suppressPersonality": false,
+        "outfit": "mods.mb.PumpkingFeastExpansion.outfit.VorlenPirate"
+      }	
+      ],
+}
+}

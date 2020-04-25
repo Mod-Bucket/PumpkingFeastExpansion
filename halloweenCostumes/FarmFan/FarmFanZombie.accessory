@@ -1,0 +1,13 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.accessories.fullBodyOutfits.FarmFanZombie",
+  "kind": "Shirt",
+  "model": "mods/PumpkingFeastExpansion/halloweenCostumes/FarmFan/FarmFanZombie.qb",
+  "palettes": [
+    "staxel.palette.grey"
+  ],
+  "searchable": false,
+  "subcategory": "tshirt"
+}

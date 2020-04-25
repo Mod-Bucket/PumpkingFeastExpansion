@@ -1,0 +1,13 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidMale"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.accessories.fullBodyOutfits.OscarSkeleton",
+  "kind": "Shirt",
+  "model": "mods/PumpkingFeastExpansion/halloweenCostumes/Oscar/OscarSkeleton.qb",
+  "palettes": [
+    "staxel.palette.grey"
+  ],
+  "searchable": false,
+  "subcategory": "tshirt"
+}
