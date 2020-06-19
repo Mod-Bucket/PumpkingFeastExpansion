@@ -1,0 +1,33 @@
+{
+  "name": "Egg Fried Rice",
+  "code": "mods.reaction.FriedOctostein",
+  "recipeStep": "fry",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.FryingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PlainFlour"
+    },
+    {
+      "code": "staxel.item.crafting.Salt"
+    },
+    {
+      "code": "staxel.item.crafting.Pepper"
+    },
+    {
+      "code": "markGrant.halloweenFestival.gatherable.octostein"
+    }
+  ],
+  "results": [
+    {
+      "code": "mods.food.FriedOctostein"
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.cooking.Fry",
+  "processDrawable": "veggies"
+}

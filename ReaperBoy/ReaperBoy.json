@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Start",
+    "body": [
+      "<<lockPlayerInConversation>>",
+      "<<typewriterMode on>>",
+      "<<if $daysSinceLastFest is 0 or $daysSinceLastFest is null>>",
+      "    <<set $said_hello to 0>>",
+      "    <<set $daysSinceLastFest to $day>>",
+      "<<else>>",
+      "    <<if $daysSinceLastFest + 10 < $day>>",
+      "        <<set $said_hello to 0>>",
+      "        <<set $daysSinceLastFest to $day>>",
+      "    <<endif>>",
+      "<<endif>>",
+      "",
+      "<<if $said_hello is 0>>",
+      "    Greetings! I am the Reaper! However, you may know me by my other names. #line:10000100",
+      "    ^c:000000;Death^c:pop;! #line:10000200",
+      "    ^c:000000;Grim^c:pop;! #line:10000300",
+      "    ^c:000000;Azrial^c:pop;! #line:10000400",
+      "    ^c:000000;Pale Rider^c:pop;! #line:10000500",
+      "    The Angel of Dea- ... wait? What did you just call me? #line:10000600",
+      "    ^c:1486b0;Reaper Boy^c:pop;? #line:10000700",
+      "    No, no. I'm a grown man. I've lived for over a millenia, granting the souls of Staxel safe passage to the afterlife. #line:10000800",
+	  "	   My Robes? Sneakers you say? They're comfortable. Do you realise how hot it gets wearing a cloak all day! #line:10000900",
+	  "	   Anyway. Greetings ... I guess? #line:10001000",
+	  "    Take this recipe as a gift to commemerate us meeting for the first time. #line:10001100",
+      "    <<set $said_hello to 1>>",
+      "<<else>>",
+      "    <<branchPlayerDoesntHavePlayerItem staxel.item.gatherable.GoldenKoi NoGoldKoi>>",
+      "    <<set $g_koi to 1>>",
+      "<<endif>>"
+    ],
+    "tags": "",
+    "colorID": 0,
+    "position": {
+      "x": 543,
+      "y": 254
+    }
+  }
+]

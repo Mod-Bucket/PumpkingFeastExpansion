@@ -1,0 +1,17 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "ModBucket",
+    "PumpkingFeastExpansion",
+	"halloween",
+    "festival",
+    "decoration"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.markgrant.decoration.BlueCauldronDecoration",
+  "searchable": true,
+  "canBeGifted": false,
+  "randomizePosition": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/woodenDecorations/BlueCauldronDecoration.qb"
+}
+
