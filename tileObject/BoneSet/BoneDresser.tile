@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/tileObject/wardrobe.config",
+  "categories": [
+    "furniture",
+    "Bone",
+    "blue",
+    "wood",
+    "set",
+    "container",
+    "storage",
+    "chest",
+    "drawers",
+    "dresser",
+    "yorkshire"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneDresser",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 2
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneDresser.qb"
+}

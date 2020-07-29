@@ -1,0 +1,45 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+    "Bone",
+    "blue",
+    "wood",
+    "set",
+    "light",
+    "lightsource",
+    "lighting",
+    "lamp",
+    "bedside"
+  ],
+  "code": "staxel.tileObject.themedfurniture.Bone.BoneLamp",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "emissiveColor": "ff2A8EB8",
+  "light": 5.2,
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneLamp.qb",
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "useCustomRendering": true,
+  "prefetchTileState": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneLamp.qb?size={16,48,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneLamp.qb?size={16,48,16}?offset={16,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneLamp.qb?size={16,48,16}?offset={32,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneLamp.qb?size={16,48,16}?offset={48,0,0}"
+  ]
+}

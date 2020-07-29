@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/tileObject/walllight.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "wall",
+    "lamp",
+    "black",
+    "Bone"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackWallLamp2",
+  "emissiveColor": "ff2A8EB8",
+  "light": 5.2,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneBlackWallLamp2.qb",
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "useCustomRendering": true,
+  "prefetchTileState": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneBlackWallLamp2.qb?size={16,24,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneBlackWallLamp2.qb?size={16,24,16}?offset={16,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneBlackWallLamp2.qb?size={16,24,16}?offset={32,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneBlackWallLamp2.qb?size={16,24,16}?offset={48,0,0}"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyWallMountedShelf.config",
+  "categories": [
+    "container",
+    "storage",
+    "Bone",
+    "furniture",
+    "shelf",
+    "blue"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneWallShelf",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneWallMountedDock.qb"
+}

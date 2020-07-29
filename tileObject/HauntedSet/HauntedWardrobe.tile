@@ -1,0 +1,33 @@
+{
+  "__inherits": "staxel/tileObject/wardrobe.config",
+  "categories": [
+    "furniture",
+    "Haunted",
+    "blue",
+    "wood",
+    "set",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "wardrobe",
+    "credenza"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedWardrobe",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedWardrobe.qb"
+}

@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+  "categories": [
+    "furniture",
+    "blue",
+    "Haunted",
+    "set",
+    "table",
+    "surface",
+    "coffee",
+    "low",
+    "short"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedCoffeeTable(NoDock)",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 2
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedCoffeeTable.qb"
+}

@@ -1,0 +1,45 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "hanging",
+    "Haunted",
+	"lamp",
+	"blue",
+    "light"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPumpkin",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+  },
+  "placementDirections": [
+	"yn",
+  ],
+  "emissiveColor": "ff2A8EB8",
+  "light": 6,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedPumpkin.qb",
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "useCustomRendering": true,
+  "prefetchTileState": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedPumpkin.qb?size={16,16,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedPumpkin.qb?size={16,16,16}?offset={16,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedPumpkin.qb?size={16,16,16}?offset={32,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedPumpkin.qb?size={16,16,16}?offset={48,0,0}"
+  ]
+}

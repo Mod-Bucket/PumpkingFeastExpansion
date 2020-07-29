@@ -1,0 +1,43 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "Bone",
+	"lamp",
+	"blue",
+    "light"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneCeilingLamp",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 3
+    },
+    "specification": "EEE EXE EEE"
+  },
+  "emissiveColor": "ff2A8EB8",
+  "light": 5.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneCeilingLamp.qb",
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "prefetchTileState": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneCeilingLamp.qb?size={16,16,23}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneCeilingLamp.qb?size={16,16,23}?offset={16,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneCeilingLamp.qb?size={16,16,23}?offset={32,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneCeilingLamp.qb?size={16,16,23}?offset={48,0,0}"
+  ]
+}

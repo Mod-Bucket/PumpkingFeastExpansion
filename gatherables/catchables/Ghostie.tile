@@ -1,0 +1,45 @@
+{
+  "__inherits": "staxel/gatherables/catchables/catchableWithNet.config",
+  "autoTileInfo": [
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tileCategoriesToLookFor": [
+            "flower",
+			"grass",
+			"water",
+			"dirt"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "tileToPlace": "mods.mb.PumpkingFeastExpansion.item.gatherable.Ghostie"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "ghost"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.item.gatherable.Ghostie",
+  "emissiveColor": "ff6FD5E6",
+  "floats": true,
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "light": 1.5,
+  "prefetchTileState": true,
+  "randomizePosition": true,
+  "searchable": false,
+  "tileStateKind": "staxel.tileState.Catchable",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/gatherables/catchables/Ghostie.qb?size={16,16,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/gatherables/catchables/Ghostie.qb?size={16,16,16}?offset={16,0,0}",
+    "mods/PumpkingFeastExpansion/gatherables/catchables/Ghostie.qb?size={16,16,16}?offset={32,0,0}",
+    "mods/PumpkingFeastExpansion/gatherables/catchables/Ghostie.qb?size={16,16,16}?offset={48,0,0}"
+  ],
+  "voxels": "mods/PumpkingFeastExpansion/gatherables/catchables/Ghostie.qb"
+}

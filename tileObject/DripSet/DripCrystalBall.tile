@@ -1,0 +1,46 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "basic",
+    "furniture",
+    "set",
+    "table",
+    "surface",
+    "coffee",
+    "low",
+    "short",
+    "brown",
+	"crystal",
+	"ball"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripCrystalBall",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/DripSet/DripCrystalBall.qb",
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "prefetchTileState": true,
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    },
+	"specification": "EX"
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedCandle.qb?size={16,32,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedCandle.qb?size={16,32,16}?offset={16,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedCandle.qb?size={16,32,16}?offset={32,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedCandle.qb?size={16,32,16}?offset={48,0,0}"
+  ]
+}

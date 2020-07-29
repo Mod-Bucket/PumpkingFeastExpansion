@@ -1,0 +1,62 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+    "Bone",
+    "Harpsichord",
+    "wood",
+    "set",
+    "instrument",
+    "piano",
+    "clavicord",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Harpsichord",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 3,
+      "z": 3
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 100,
+    "value": 250000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "interactActionTrigger": "staxel.entityAction.PlayInteractEffectAction",
+  "interactVerb": "controlHint.verb.Play",
+  "interactEffect": "mods.mb.PumpkingFeastExpansion.effect.Harpsichord",
+  "placeSoundGroup": "mods.mb.PumpkingFeastExpansion.sounds.Harpsichord",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_01.qb",
+  "frameAnimatedTile": {
+    "frameTime": 0.1,
+  },
+  "prefetchTileState": true,
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_01.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_02.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_03.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_04.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_05.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_06.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_07.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_08.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_09.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_10.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_11.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_12.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_13.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_14.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_15.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_16.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_17.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_18.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_19.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Harpsichord/Harpsichord_20.qb",
+	]
+}

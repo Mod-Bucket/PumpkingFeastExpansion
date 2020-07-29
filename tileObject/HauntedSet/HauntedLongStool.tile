@@ -1,0 +1,25 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyOneSeaterStool.config",
+  "categories": [
+    "furniture",
+	"blue",
+    "Haunted",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+	"long",
+	"long stool",
+    "stool",
+	"ottoman"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedLongStool",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedLongStool.qb"
+}

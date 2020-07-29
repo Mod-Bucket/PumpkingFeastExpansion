@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/docks/OneSeater_TallChair.config",
+  "categories": [
+    "furniture",
+    "Bone",
+    "blue",
+    "wood",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "dining",
+    "dinner",
+    "room"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneChair",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneChair.qb"
+}

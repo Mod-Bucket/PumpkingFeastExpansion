@@ -1,0 +1,52 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "Haunted",
+	"lamp",
+	"blue",
+    "light",
+	"chandelier"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedChandelier3",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "emissiveColor": "ff2A8EB8",
+  "light": 10,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedChandelier3.qb",
+  "compound": {
+  "size": {
+    "x": 3,
+    "y": 2,
+    "z": 3
+  },
+  "specification": "CCC CXC CCC CCC CCC CCC"
+  },
+  "placementDirections": [
+    "xn",
+	"xp",
+	"yn",
+	"yp",
+	"zn",
+	"zp",
+  ],
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "prefetchTileState": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedChandelier3.qb?size={48,32,48}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedChandelier3.qb?size={48,32,48}?offset={48,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedChandelier3.qb?size={48,32,48}?offset={96,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedChandelier3.qb?size={48,32,48}?offset={144,0,0}"
+  ]
+}

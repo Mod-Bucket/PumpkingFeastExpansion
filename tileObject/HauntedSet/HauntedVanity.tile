@@ -1,0 +1,40 @@
+{
+  "__inherits": "staxel/tileObject/vanity.config",
+  "categories": [
+    "furniture",
+    "Haunted",
+    "set",
+    "vanity",
+    "dressing",
+    "mirror",
+    "wood",
+    "table"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedVanity",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb",
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "useCustomRendering": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={32,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={64,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={96,0,0}"
+  ]
+}

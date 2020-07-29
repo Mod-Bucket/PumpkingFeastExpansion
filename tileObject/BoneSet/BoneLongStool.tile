@@ -1,0 +1,25 @@
+{
+  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyOneSeaterStool.config",
+  "categories": [
+    "furniture",
+	"blue",
+    "Bone",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+	"long",
+	"long stool",
+    "stool",
+	"ottoman"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneLongStool",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneLongStool.qb"
+}

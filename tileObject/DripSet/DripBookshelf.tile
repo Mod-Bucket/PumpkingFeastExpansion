@@ -1,0 +1,38 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "container",
+	"Bookshelf",
+    "storage",
+    "Drip",
+    "red",
+	"book",
+    "furniture",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "credenza",
+    "double",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripBookshelf",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 1
+    },
+    "specification": "CCC CXC"
+  },
+  "prefetchTileState": true,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/DripSet/DripBookshelf.qb",
+  "wallPushOut": true
+}

@@ -1,0 +1,32 @@
+{
+  "__inherits": "mods/PumpkingFeastExpansion/docks/Futon.config",
+  "categories": [
+    "furniture",
+    "purple",
+    "Haunted",
+	"pillow",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "futon",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+	"chaise",
+	"chaise longue",
+	"chaise lounge",
+	"lounge",
+    "settee"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleFutonLeft",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedPurpleFutonLeft.qb"
+}

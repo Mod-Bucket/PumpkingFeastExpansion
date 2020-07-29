@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+  "categories": [
+    "furniture",
+    "Bone",
+    "blue",
+    "set",
+    "bed",
+    "coffin",
+    "sleep",
+    "double",
+	"queen",
+	"king",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneDoubleBed(NoDock)",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 3,
+      "z": 3
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneDoubleBed.qb"
+}

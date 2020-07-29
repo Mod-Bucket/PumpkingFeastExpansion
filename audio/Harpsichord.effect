@@ -1,0 +1,7 @@
+{
+  "__inherits": "mods/PumpkingFeastExpansion/audio/Harpsichord.config",
+  "code": "mods.mb.PumpkingFeastExpansion.effect.Harpsichord",
+  "sounds": [
+    "staxel.sounds.musical.Harpsichord"
+  ]
+}

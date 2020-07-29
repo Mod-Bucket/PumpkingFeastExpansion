@@ -1,0 +1,39 @@
+{
+  "__inherits": "staxel/docks/dockBase.config",
+  "categories": [
+    "container",
+	"Bookshelf",
+    "storage",
+    "Haunted",
+    "blue",
+	"book",
+    "furniture",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "credenza",
+    "double",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedBookshelf",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 1
+    },
+    "specification": "CCC CXC"
+  },
+  "dockDefinition": "mods.mb.PumpkingFeastExpansion.Bookshelf.dock",
+  "prefetchTileState": true,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedBookshelf.qb",
+  "wallPushOut": true
+}

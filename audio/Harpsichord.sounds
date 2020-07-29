@@ -1,0 +1,9 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.sounds.Harpsichord",
+  "sounds": [
+    {
+      "file": "mods/PumpkingFeastExpansion/audio/K426_coda",
+      "volume": 1.0
+    }
+  ]
+}

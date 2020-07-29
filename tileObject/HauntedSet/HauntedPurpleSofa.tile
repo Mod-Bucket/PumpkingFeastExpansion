@@ -1,0 +1,27 @@
+{
+  "__inherits": "staxel/docks/ThreeSeater_Thick.config",
+  "categories": [
+    "furniture",
+    "Haunted",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "sofa",
+    "couch",
+    "love",
+    "loveseat",
+    "wood",
+    "purple",
+    "settee"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleSofa",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedPurpleSofa.qb"
+}

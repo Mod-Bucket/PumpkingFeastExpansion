@@ -1,0 +1,35 @@
+
+{
+  "__inherits": "staxel/tileObject/wardrobe.config",
+  "categories": [
+    "container",
+    "storage",
+    "Bone",
+    "furniture",
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "wardrobe",
+    "credenza",
+    "single",
+    "blue"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneWardrobeSingle",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneWardrobeSingle.qb"
+}

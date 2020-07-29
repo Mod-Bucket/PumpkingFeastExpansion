@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "Bone",
+	"lamp",
+	"black",
+    "light"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackCeilingLamp1",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "emissiveColor": "ff2A8EB8",
+  "light": 5.2,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneBlackCeilingLamp1.qb",
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "useCustomRendering": true,
+  "prefetchTileState": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneBlackCeilingLamp1.qb?size={16,24,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneBlackCeilingLamp1.qb?size={16,24,16}?offset={16,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneBlackCeilingLamp1.qb?size={16,24,16}?offset={32,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneBlackCeilingLamp1.qb?size={16,24,16}?offset={48,0,0}"
+  ]
+}

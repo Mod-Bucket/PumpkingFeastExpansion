@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tile/Hammerable.config",
+  "categories": [
+    "Mod Bucket",
+    "Pumpking Feast Expansion",
+    "block",
+    "blue",
+    "carpet",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tile.RoyalBlueCarpet",
+  "pathFindingPenalty": 10,
+  "damageSoundGroup": "staxel.sounds.damage.Dirt",
+  "placeSoundGroup": "staxel.sounds.place.Dirt",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tile/RoyalBlueCarpet.qb"
+}
