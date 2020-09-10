@@ -1,0 +1,49 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "light",
+    "lightsource",
+    "lighting",
+    "torch",
+    "candle",
+	"red",
+	"Drip",
+    "fire"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.Dripping",
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "light": 0.1,
+  "prefetchTileState": true,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "tilePlacement": {
+    "inHandRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 3,
+      "z": 3
+    },
+	"specification": "EEEEEEEEE EEEEEEEEE EEE EXE EEE"
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/tileObject/DripSet/Dripping.qb?size={48,42,48}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/DripSet/Dripping.qb?size={48,42,48}?offset={48,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/DripSet/Dripping.qb?size={48,42,48}?offset={0,0,48}",
+    "mods/PumpkingFeastExpansion/tileObject/DripSet/Dripping.qb?size={48,42,48}?offset={48,0,48}"
+  ]
+}

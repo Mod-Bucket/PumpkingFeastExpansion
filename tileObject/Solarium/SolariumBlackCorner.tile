@@ -1,0 +1,44 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": false,
+  "attachmentDirections": [
+    "yn",
+    "yp",
+    "xp",
+    "zp"
+  ],
+  "categories": [
+    "Pumpking Expansion",
+    "mod bucket",
+	"Solar",
+	"solarium",
+	"black",
+    "EF",
+    "EFCorner",
+    "corner"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackCorner",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "yn",
+    "xn",
+    "zp"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Solarium/SolariumBlackCorner.qb"
+}

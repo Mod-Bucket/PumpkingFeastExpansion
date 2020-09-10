@@ -10,7 +10,7 @@
     "Drip"
   ],
   "code": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripWallLamp2",
-  "emissiveColor": "fff7EFCF",
+  "emissiveColor": "ffC82651",
   "light": 7.0,
   "pricing": {
     "catalogueUnlockedFromStart": true,

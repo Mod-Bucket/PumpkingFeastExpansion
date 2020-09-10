@@ -1,0 +1,46 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "xp",
+    "yp",
+    "xn"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "plant",
+    "Mod Bucket",
+    "Halloween",
+    "Pumpking",
+    "hedge",
+    "straight",
+    "green",
+	"black",
+    "EF",
+    "EFMiddle",
+    "middle"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.Hedge.BlackRoseHedgeMiddle",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "xp",
+    "xn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.mb.PumpkingFeastExpansion.Hedge.BlackRoseHedgeStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Hedge/BlackRoseHedgeMiddle.qb"
+}

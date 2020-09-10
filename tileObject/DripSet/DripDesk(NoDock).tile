@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+  "categories": [
+    "furniture",
+    "red",
+    "Drip",
+    "set",
+    "table",
+    "surface",
+    "desk",
+    "davenport",
+    "bureau",
+    "writing"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripDesk(NoDock)",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/DripSet/DripDesk.qb"
+}

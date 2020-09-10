@@ -1,7 +1,7 @@
 {
   "__inherits": "staxel/tileObject/base.config",
   "categories": [
-    "basic",
+    "drip",
     "light",
     "lightsource",
     "lighting",
@@ -19,7 +19,7 @@
       "z": 1
     }
   },
-  "emissiveColor": "fff7EFCF",
+  "emissiveColor": "ffC82651",
   "light": 10.0,
   "pricing": {
     "buyable": true,

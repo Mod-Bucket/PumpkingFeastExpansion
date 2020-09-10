@@ -11,7 +11,7 @@
     "fire"
   ],
   "code": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripCandle",
-  "emissiveColor": "ff2A8EB8",
+  "emissiveColor": "ffC82651",
   "frameAnimatedTile": {
     "frameTime": 0.13
   },

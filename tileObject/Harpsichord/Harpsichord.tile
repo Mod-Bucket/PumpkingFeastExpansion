@@ -24,6 +24,8 @@
     "sellPrice": 100,
     "value": 250000
   },
+  "emissiveColor": "ff2A8EB8",
+  "light": 1.1,
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
   "interactActionTrigger": "staxel.entityAction.PlayInteractEffectAction",

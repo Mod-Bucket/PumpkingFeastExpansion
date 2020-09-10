@@ -14,7 +14,7 @@
     "sellPrice": 10,
     "value": 5000
   },
-  "emissiveColor": "fff7EFCF",
+  "emissiveColor": "ffC82651",
   "light": 2.2,
   "randomizePosition": false,
   "searchable": true,

@@ -1,0 +1,21 @@
+{
+  "__inherits": "mods/PumpkingFeastExpansion/docks/WallMountedShelf.config",
+  "categories": [
+    "container",
+    "storage",
+    "Drip",
+    "furniture",
+    "shelf",
+    "red"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripWallShelf",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/DripSet/DripWallMountedDock.qb"
+}

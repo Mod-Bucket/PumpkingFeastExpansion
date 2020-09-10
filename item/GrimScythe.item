@@ -1,8 +1,10 @@
 {
   "categories": [
     "tool",
-    "scythe",
-    "sickle",
+    "net",
+	"scythe",
+	"sickle",
+    "catching",
     "ghost",
 	"net"
   ],
@@ -21,9 +23,9 @@
     "y": 3.14,
     "z": -1.56
   },
-  "interactVerb": "controlHint.verb.Reap",
+  "interactVerb": "controlHint.verb.Catch",
   "kind": "staxel.item.Net",
-  "paramAnimator": "staxel.paramAnimation.Hoe",
+  "paramAnimator": "staxel.paramAnimation.Net",
   "pricing": {
     "buyable": false,
     "catalogueUnlockedFromStart": false,
@@ -36,7 +38,5 @@
     "y": 0.0,
     "z": 0.0
   },
-  "chargeableTool" : {
-    "strength": 2
-  }
+  "useBoxCollider": true,
 }

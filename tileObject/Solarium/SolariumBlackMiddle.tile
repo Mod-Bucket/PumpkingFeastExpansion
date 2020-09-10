@@ -1,0 +1,42 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": false,
+  "attachmentDirections": [
+    "xp",
+    "yp",
+    "xn"
+  ],
+  "categories": [
+    "Pumpking Expansion",
+    "mod bucket",
+	"Solar",
+	"solarium",
+	"black",
+    "EF",
+    "EFMiddle",
+    "middle"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackMiddle",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "xp",
+    "xn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Solarium/SolariumBlackMiddle.qb"
+}

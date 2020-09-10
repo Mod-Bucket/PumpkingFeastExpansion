@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/docks/CoffeeTable.config",
+  "categories": [
+    "furniture",
+    "red",
+    "drip",
+    "set",
+    "table",
+    "surface",
+    "coffee",
+    "low",
+    "short"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripCoffeeTable",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/DripSet/DripCoffeeTable.qb"
+}

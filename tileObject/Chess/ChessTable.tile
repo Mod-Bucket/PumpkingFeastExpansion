@@ -30,7 +30,7 @@
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
   "frameAnimatedTile": {
-    "frameTime": 0.5,
+    "frameTime": 0.25,
   },
   "prefetchTileState": true,
   "tileStateKind": "staxel.tileState.FrameAnimated",

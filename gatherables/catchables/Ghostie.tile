@@ -21,7 +21,8 @@
     }
   ],
   "categories": [
-    "ghost"
+    "ghost",
+	"bug"
   ],
   "code": "mods.mb.PumpkingFeastExpansion.item.gatherable.Ghostie",
   "emissiveColor": "ff6FD5E6",
@@ -30,7 +31,7 @@
     "frameTime": 0.13
   },
   "light": 1.5,
-  "prefetchTileState": true,
+//  "prefetchTileState": true,
   "randomizePosition": true,
   "searchable": false,
   "tileStateKind": "staxel.tileState.Catchable",

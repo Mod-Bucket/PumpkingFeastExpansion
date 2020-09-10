@@ -1,0 +1,18 @@
+{
+  "__inherits": "staxel/tileObject/door/doorBase.config",
+  "categories": [
+    "door",
+    "iron",
+    "black"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackDoor",
+  "customRendererVoxels": "mods/PumpkingFeastExpansion/tileObject/Solarium/SolariumBlackDoor.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 380
+  },
+  "searchable": true,
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Solarium/SolariumBlackDoor.qb"
+}

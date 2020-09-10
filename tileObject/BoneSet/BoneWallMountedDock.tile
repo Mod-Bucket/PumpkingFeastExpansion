@@ -1,5 +1,5 @@
 {
-  "__inherits": "mods/ExpandedFurniture/ConfigsDocks/SpookyWallMountedShelf.config",
+  "__inherits": "mods/PumpkingFeastExpansion/docks/WallMountedShelf.config",
   "categories": [
     "container",
     "storage",
