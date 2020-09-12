@@ -1,0 +1,9 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.sounds.pipekicklower",
+  "sounds": [
+    {
+      "file": "mods/PumpkingFeastExpansion/audio/pipekicklower",
+      "volume": 1.0
+    }
+  ]
+}

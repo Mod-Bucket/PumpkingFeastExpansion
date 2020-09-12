@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "ballroom",
+	"pipe",
+	"organ",
+    "silver",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3CenterLow",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 50
+  },
+  "attachmentDirections": [
+    "xn",
+	"xp",
+	"yn",
+	"yp",
+	"zn",
+	"zp",
+  ],
+  "placementDirections": [
+    "xn",
+	"xp",
+	"yn",
+	"yp",
+	"zn",
+	"zp",
+  ],
+  "searchable": true,
+  "stepSoundGroup": "mods.mb.PumpkingFeastExpansion.sounds.pipekickmiddle",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Ballroom/OrganPipe3CenterLow.qb"
+}

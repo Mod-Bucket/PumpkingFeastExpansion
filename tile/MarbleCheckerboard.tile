@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/tile/Hammerable.config",
+  "categories": [
+    "Mod Bucket",
+    "Pumpking Feast Expansion",
+    "black",
+	"white",
+	"stone",
+    "wall",
+    "block",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tile.MarbleCheckerboard",
+  "damageSoundGroup": "staxel.sounds.damage.Wood",
+  "pathFindingPenalty": 10,
+  "placeSoundGroup": "staxel.sounds.place.Wood",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 500
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tile/MarbleCheckerboard.qb"
+}

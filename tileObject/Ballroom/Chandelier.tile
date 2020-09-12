@@ -1,0 +1,45 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "hanging",
+    "ballroom",
+	"lamp",
+	"blue",
+    "light",
+	"crystal",
+	"chandelier"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalChandelier",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "emissiveColor": "ff2A8EB8",
+  "light": 10,
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.damage.Glass.bottle",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Ballroom/Chandelier.qb",
+  "compound": {
+  "size": {
+    "x": 3,
+    "y": 2,
+    "z": 3
+  },
+  "specification": "CCC CXC CCC CCC CCC CCC"
+  },
+  "frameAnimatedTile": {
+    "frameTime": 0.13
+  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "prefetchTileState": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/tileObject/Ballroom/Chandelier.qb?size={48,35,48}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/Ballroom/Chandelier.qb?size={48,35,48}?offset={48,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/Ballroom/Chandelier.qb?size={48,35,48}?offset={0,0,48}",
+    "mods/PumpkingFeastExpansion/tileObject/Ballroom/Chandelier.qb?size={48,35,48}?offset={48,0,48}"
+  ]
+}

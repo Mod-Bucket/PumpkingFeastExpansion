@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "ballroom",
+	"lamp",
+	"blue",
+    "light",
+	"crystal",
+	"chandelier",
+	"broken"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisLight",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 1,
+    "value": 3
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.damage.Glass.bottle",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Ballroom/CrystalDebrisLight.qb"
+}

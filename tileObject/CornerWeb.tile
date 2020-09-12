@@ -1,0 +1,21 @@
+{
+  "__inherits": "staxel/tileObject/ceilinglight.config",
+  "categories": [
+    "Mod Bucket",
+    "Halloween",
+    "Pumpking",
+	"cobweb",
+	"spiderweb",
+	"spider",
+    "web"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.CornerWeb",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 5,
+    "value": 30
+  },
+  "searchable": false,
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/CornerWeb.qb"
+}

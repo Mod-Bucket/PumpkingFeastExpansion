@@ -1,0 +1,11 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.sounds.Organ",
+  "sounds": [
+    {
+      "file": "mods/PumpkingFeastExpansion/audio/Toccata",
+      "volume": 1.0
+    }
+	  //https://freesound.org/people/InspectorJ/sounds/401707/
+	  //"Dramatic Organ, B.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
+  ]
+}

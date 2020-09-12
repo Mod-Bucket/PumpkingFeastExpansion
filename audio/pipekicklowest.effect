@@ -1,0 +1,7 @@
+{
+  "__inherits": "mods/PumpkingFeastExpansion/audio/pipekick.config",
+  "code": "mods.mb.PumpkingFeastExpansion.effect.pipekicklowest",
+  "sounds": [
+    "staxel.sounds.musical.pipekicklowest"
+  ]
+}
