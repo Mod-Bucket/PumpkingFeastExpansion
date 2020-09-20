@@ -7,6 +7,7 @@
     "silver",
   ],
   "code": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Left",
+  "aoFloor": false,
   "pricing": {
     "catalogueUnlockedFromStart": false,
     "buyable": true,

@@ -1,0 +1,11 @@
+{
+  "availableInChargen": false,
+  "bodyType": [
+    "staxel.bodyType.Cat"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.pets.accessories.eyes.MummyCat.bad",
+  "kind": "Eyes",
+  "model": "mods/PumpkingFeastExpansion/pets/MummyCat/MummyCat_Bad.qb",
+  "palettes": [],
+  "searchable": false
+}

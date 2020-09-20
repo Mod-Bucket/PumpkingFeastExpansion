@@ -31,6 +31,7 @@
     "frameTime": 0.13
   },
   "useCustomRendering": true,
+  "prefetchTileState": true,
   "variants": [
     "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={0,0,0}",
     "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={32,0,0}",

@@ -1,0 +1,48 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": false,
+  "attachmentDirections": [
+    "yn",
+    "yp",
+    "xp",
+    "xn",
+    "zp",
+    "zn"
+  ],
+  "categories": [
+    "Mod Bucket",
+    "Halloween",
+    "Pumpking",
+	"white",
+	"stone",
+	"marble",
+	"platform",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingMiddle",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+    },
+    "specification": "X"
+  },
+  "placementDirections": [
+    "yn",
+    "yp",
+    "xp",
+    "xn",
+    "zp",
+    "zn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Ballroom/AMarbleLandingMiddle.qb"
+}

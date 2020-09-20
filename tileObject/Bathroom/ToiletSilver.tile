@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/docks/Toilet.config",
+  "categories": [
+    "furniture",
+    "set",
+    "chair",
+    "seat",
+    "sit",
+    "bathroom",
+    "black",
+	"silver",
+	"goth",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.bathroom.ToiletSilver",
+  "dockDefinition": "staxel.docks.Toilet",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 5,
+    "value": 320
+  },
+  "searchable": true,
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Bathroom/ToiletSilver.qb"
+}

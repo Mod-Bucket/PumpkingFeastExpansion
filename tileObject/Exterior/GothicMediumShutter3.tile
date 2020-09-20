@@ -1,0 +1,39 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToSide": true,
+  "attachToBelow": false,
+  "attachmentDirections": [
+    "all"
+  ],
+  "categories": [
+    "mod bucket",
+	"pumpking",
+	"halloween",
+	"gothic",
+    "window",
+    "frame",
+    "black",
+    "glass",
+	"blue"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumShutter3",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 1
+    },
+  },
+  "placementDirections": [
+    "all"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 103
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Exterior/GothicMediumShutter3.qb"
+}

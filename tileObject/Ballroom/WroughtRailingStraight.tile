@@ -1,0 +1,46 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": false,
+  "attachmentDirections": [
+    "yn",
+    "xp",
+    "xn",
+    "zp",
+    "zn"
+  ],
+  "categories": [
+    "Mod Bucket",
+    "Halloween",
+    "Pumpking",
+	"black",
+	"iron",
+	"wrought",
+	"platform",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingStraight",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+    },
+    "specification": "CX"
+  },
+  "placementDirections": [
+    "yn",
+    "xp",
+    "xn",
+    "zp",
+    "zn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Ballroom/WroughtRailingStraight.qb"
+}

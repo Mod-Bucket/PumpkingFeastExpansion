@@ -1,0 +1,25 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": true,
+  "categories": [
+    "bathroom",
+    "wall",
+    "decoration",
+    "white",
+	"Gold",
+	"White",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.bathroom.ToiletPaperGold",
+  "placementDirections": [
+    "zn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 1,
+    "value": 40
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Bathroom/ToiletPaperGold.qb"
+}

@@ -1,0 +1,41 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": false,
+  "attachmentDirections": [
+    "all"
+  ],
+
+  "categories": [
+    "mod bucket",
+	"pumpking",
+	"halloween",
+	"gothic",
+    "window",
+    "frame",
+    "black",
+    "glass",
+	"blue"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicOctagonalWindow",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 1
+    },
+    "specification": "CX CC EE"
+  },
+  "placementDirections": [
+    "all"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 103
+  },
+  "searchable": true,
+  "randomizePosition": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Exterior/GothicOctagonalWindow.qb"
+}
