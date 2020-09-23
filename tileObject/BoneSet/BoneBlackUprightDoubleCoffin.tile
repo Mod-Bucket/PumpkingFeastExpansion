@@ -1,0 +1,34 @@
+{
+  "__inherits": "mods/PumpkingFeastExpansion/docks/DoubleCoffinUpright.config",
+  "categories": [
+    "furniture",
+    "Bone",
+    "white",
+    "black",
+    "set",
+    "bed",
+    "coffin",
+    "sleep",
+    "double",
+	"queen",
+	"king",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackUprightDoubleCoffin",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 3
+    },
+    "specification": "CCC CCC CXC"
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneBlackUprightDoubleCoffin.qb"
+}

@@ -11,6 +11,10 @@
     "table"
   ],
   "code": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedVanity",
+  "frameAnimatedTile": {
+    "frameTime": 0.25,
+  },
+  "prefetchTileState": true,
   "compound": {
     "size": {
       "x": 2,
@@ -19,23 +23,26 @@
     }
   },
   "pricing": {
-    "catalogueUnlockedFromStart": false,
+    "catalogueUnlockedFromStart": true,
     "buyable": true,
     "sellPrice": 10,
     "value": 5000
   },
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
-  "voxels": "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb",
-  "frameAnimatedTile": {
-    "frameTime": 0.13
-  },
+  "tileStateKind": "staxel.tileState.FrameAnimated",
   "useCustomRendering": true,
-  "prefetchTileState": true,
   "variants": [
     "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={0,0,0}",
     "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={32,0,0}",
-    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={64,0,0}",
-    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={96,0,0}"
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={64,0,0}",    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={96,0,0}",    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={64,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedVanity.qb?size={32,32,16}?offset={32,0,0}"
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "Mod Bucket",
+    "Halloween",
+    "Pumpking",
+    "food",
+	"bad",
+	"poison",
+	"toxic",
+	"black",
+	
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.UndeadFood",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "searchable": true,
+  "voxels": "staxel/item/crafting/FailedDish.qb"
+}

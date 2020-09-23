@@ -1,0 +1,26 @@
+{
+  "__inherits": "mods/PumpkingFeastExpansion/docks/DoubleCoffin.config",
+  "categories": [
+    "furniture",
+    "Bone",
+    "white",
+    "green",
+    "set",
+    "bed",
+    "coffin",
+    "sleep",
+    "double",
+	"queen",
+	"king",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneDoubleCoffin",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneDoubleCoffin.qb"
+}

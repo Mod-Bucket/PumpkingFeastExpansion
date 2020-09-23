@@ -1,0 +1,29 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "Mod Bucket",
+    "Halloween",
+    "Pumpking",
+    "game",
+	"poker",
+	"cards",
+	
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.Poker",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 3
+    },
+	"specification": "ECE CXC ECE"
+  },
+  "searchable": true,
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/SpookySet/Poker.qb"
+}

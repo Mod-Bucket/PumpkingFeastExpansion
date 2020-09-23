@@ -1,0 +1,52 @@
+{
+  "categories": [
+	"Pumpking",
+	"Mod Bucket",
+	"Halloween",
+	"Blood",
+	"wine",
+	"red",
+    "drink",
+	"Ivanttosuckyourblood",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.item.drinks.BloodyGoblet",
+  "eatTime": 2,
+  "icon": "mods/PumpkingFeastExpansion/item/drinks/BloodyGoblet.qb",
+  "inHand": "mods/PumpkingFeastExpansion/item/drinks/BloodyGoblet.qb",
+  "inHandOffset": {
+    "x": 0.1,
+    "y": -0.4,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0,
+    "y": -1.54,
+    "z": -2.00
+  },
+  "appliesStatus": {
+    "statuses" : [
+		"unlucky",
+	]
+  },
+  "isDrink": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+	"appearsInCatalogue": true,
+    "buyable": true,
+    "sellPrice": 1000,
+    "value": 1565
+  },
+  "searchable": true,
+  "canBeEarntFromLuckyBox": false,  
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "consumable": {
+    "colour": "FFEC280D",
+    "particles": "staxel.particle.item.Drink",
+    "sound": "staxel.sound.Player.drink.sip"
+  },
+}

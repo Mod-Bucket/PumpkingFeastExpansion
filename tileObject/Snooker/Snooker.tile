@@ -1,0 +1,56 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+    "Haunted",
+    "Snooker",
+    "wood",
+    "game",
+    "eyeball",
+    "pool",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Snooker",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 3
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 100,
+    "value": 250000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_01.qb",
+  "frameAnimatedTile": {
+    "frameTime": 0.25,
+  },
+  "prefetchTileState": true,
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_01.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_01.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_02.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_01.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_03.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_01.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_01.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_04.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_01.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_05.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_01.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_01.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_01.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_06.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_01.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_07.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_01.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_01.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Snooker/Snooker_08.qb",
+	]
+}

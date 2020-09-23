@@ -1,0 +1,17 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "rusty",
+    "brown"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.RustyWeatherVane",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 91,
+    "value": 153
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Exterior/RustyWeatherVane.qb"
+}

@@ -1,0 +1,23 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "Mod Bucket",
+    "Halloween",
+    "Pumpking",
+    "blood",
+	"Decanter",
+	"wine",
+	"glass",
+	"red",
+	
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.BloodGoblet",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 5,
+    "value": 630
+  },
+  "searchable": true,
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/SpookySet/BloodGoblet.qb"
+}
