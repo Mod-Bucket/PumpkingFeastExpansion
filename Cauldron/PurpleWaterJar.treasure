@@ -1,0 +1,14 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.treasure.PurpleWaterJar",
+  "entries": [
+    {
+      "weight": 100.0,
+      "items": [
+        {
+          "code": "mods.mb.PumpkingFeastExpansion.item.crafting.PurpleWaterJar",
+		  "quantity" : 1
+        }
+		]
+    }
+  ]
+}

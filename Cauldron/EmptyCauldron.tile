@@ -1,0 +1,79 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "decoration",
+    "magic"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.magic.EmptyCauldron",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/Cauldron/CauldronEmpty.qb",
+  "autoTileInfo": [
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "tileCategoriesToLookFor": ["block"],
+          "tilesToReject": ["mods.mb.PumpkingFeastExpansion.tileObject.magic.EmptyCauldron"]
+        }
+      ],
+      "results": [
+        {
+          "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.magic.EmptyCauldron",
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "left",
+          "tileCategoriesToLookFor": ["block"],
+          "tilesToReject": ["mods.mb.PumpkingFeastExpansion.tileObject.magic.EmptyCauldron"]
+        }
+      ],
+      "results": [
+        {
+          "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.magic.EmptyCauldron",
+          "rotation": 1
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "tileCategoriesToLookFor": ["block"],
+          "tilesToReject": ["mods.mb.PumpkingFeastExpansion.tileObject.magic.EmptyCauldron"]
+        }
+      ],
+      "results": [
+        {
+          "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.magic.EmptyCauldron",
+          "rotation": 2
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "right",
+          "tileCategoriesToLookFor": ["block"],
+          "tilesToReject": ["mods.mb.PumpkingFeastExpansion.tileObject.magic.EmptyCauldron"]
+        }
+      ],
+      "results": [
+        {
+          "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.magic.EmptyCauldron",
+          "rotation": 3
+        }
+      ]
+    }
+  ]
+}

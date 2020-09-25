@@ -1,0 +1,28 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "ModBucket",
+    "PumpkingFeastExpansion"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.GuideBook",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 600,
+    "value": 1000
+  },
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/onScreenGuides/GuideBook.qb",
+  "tileStateKind": "staxel.tileState.HelpBlock",
+  "helpBlock": {
+    "onScreenGuide": "mods.mb.PumpkingFeastExpansion.onScreenGuide.BefriendingVillagers"
+  }
+}

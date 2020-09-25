@@ -1,0 +1,21 @@
+{
+	"code": "mods.mb.PumpkingFeastExpansion.onScreenGuide.BefriendingVillagers",
+	"pages":[
+		{
+			"line":"staxel.onScreenGuide.BefriendingVillagers.1",
+			"image": "/image/OnScreenGuides/LineImages/BefriendingVillagers_1.png"
+		},
+		{
+			"line":"staxel.onScreenGuide.BefriendingVillagers.2",
+			"image": "/image/OnScreenGuides/LineImages/BefriendingVillagers_2.png"
+		},
+		{
+			"line":"staxel.onScreenGuide.BefriendingVillagers.3",
+			"image": "/image/OnScreenGuides/LineImages/BefriendingVillagers_3.png"
+		},
+		{
+			"line":"staxel.onScreenGuide.BefriendingVillagers.4",
+			"image": "/image/OnScreenGuides/LineImages/BefriendingVillagers_4.png"
+		}
+	]
+}

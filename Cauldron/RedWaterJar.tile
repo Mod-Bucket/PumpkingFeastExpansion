@@ -1,0 +1,59 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "misc",
+    "blue",
+    "red",
+    "pink",
+    "orange",
+    "yellow",
+    "green",
+    "purple",
+    "beach",
+    "ball"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.magic.RedWaterJar",
+  "collision": false,
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 48,
+    "value": 80
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/Cauldron/RedWaterJar.qb",
+  "autoTileInfo": [
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.magic.EmptyCauldron"],
+        }
+      ],
+      "results": [
+        {
+          "direction": "down",
+          "rotation": 0,
+          "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.magic.RedCauldronHalf"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "down",
+          "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.magic.BlueCauldronHalf"],
+        }
+      ],
+      "results": [
+        {
+          "direction": "down",
+          "rotation": 0,
+          "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.magic.PurpleCauldron"
+        }
+      ]
+    }
+  ]
+}

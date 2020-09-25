@@ -1,0 +1,45 @@
+{
+  "__inherits": "staxel/item/drinkable.config",
+  "categories": [
+    "market",
+    "boilable",
+    "mixable"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.item.crafting.PurpleWaterJar",
+  "consumable": {
+    "colour": "FFACD8E6",
+    "particles": "staxel.particle.item.Drink",
+    "sound": "staxel.sound.Player.drink.sip"
+  },
+  "eatTime": 1,
+  "icon": "mods/PumpkingFeastExpansion/Cauldron/PurpleWaterJar.qb",
+  "inHand": "mods/PumpkingFeastExpansion/Cauldron/PurpleWaterJar.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -1.56
+  },
+  "isDockable": true,
+  "isDrink": true,
+  "kind": "staxel.item.CraftItem",
+  "leftOver": {
+    "code": "staxel.item.crafting.JarEmpty"
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 9,
+    "value": 15
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

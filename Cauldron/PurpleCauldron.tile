@@ -1,0 +1,25 @@
+{
+    "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "decoration",
+    "magic"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.magic.PurpleCauldron",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/Cauldron/PurpleCauldron.qb",
+  "tileStateKind": "staxel.tileState.Lootable",
+    "lootable": {
+		"lootEffect": "staxel.effect.generic.LootPetals",
+        "usedTile": "mods.mb.PumpkingFeastExpansion.tileObject.magic.EmptyCauldron",
+		"petals": -1,
+        "singleUse": true,
+        "treasure": "mods.mb.PumpkingFeastExpansion.treasure.PurpleWaterJar"
+    }
+}
