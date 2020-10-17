@@ -1,0 +1,3564 @@
+{
+  "docks": {
+    "count": 0
+  },
+  "mapping": {
+    "FF001009": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumShutter2",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF009C3D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Right",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF00FE0E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackCarpet3x3",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF0450F2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Tip_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF065681": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperMouldingGuardEyesBlack",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF071BDD": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Tip_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF074CE8": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Base",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF077721": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Base",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF08A423": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Tip_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF0A08AD": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF0A3872": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.victorian.VictorianChair",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF0A4F59": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicDoorFrameLarge",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF0AB3DC": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Left",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF0ADD32": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_Full_Stars",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF0B987F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingOuterNewel",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF0BD459": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneTVStand",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF0C262E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Full",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF0C2778": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_FullCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF0DD3B7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter4",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF0E1AAE": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedSkeleton1Soul",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF0EBD19": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF0F0C27": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_Full_Night",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF0F1145": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2Left",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF0F6515": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleFootLamp",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF0FC1E1": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneChair",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF0FE1B3": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPumpkin",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF103960": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingNewelLeft",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF11A43F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Base_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF120E30": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.RoyalBlueCarpet",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF12423A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperCrownGhostBlue",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF124835": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.SpookySilverSideboard",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF127479": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Base_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF13A5CD": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.victorian.VictorianChair",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF14462B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicWhiteDoor",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF1482BC": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_FullCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF150F37": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Base_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF151038": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Tip_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF153E1B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Base",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF15441E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Full",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF159554": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Base_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF16113A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF16113B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF169521": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Base_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF170D08": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedBookshelf",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF17113A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedLongStool",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF17113C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Base_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF17113D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Tip_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF171239": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Tip_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF17FE15": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicSmallWindow",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF1970E8": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperMouldingGuardGhostBlue",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF19AAC9": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperEyesBlack",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF1A980C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackStraight",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF1ACEB9": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4CenterLow",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF1C1930": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_Full_Stars",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF1C3525": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2Left",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF1D120C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedWardrobeSingle",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF1D120D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedWardrobe",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF1D1D1D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackDoor",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF1D397F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Base_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF1D66D3": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneTVStand",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF1D7AA7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumShutter3",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF1D8F72": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter3",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF1E1E1E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicOctagonalWindow",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF1F130C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedSideTable.NoDock",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF1F1F1F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicExtraLargeStainedWindow",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF1F3D01": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5CenterLow",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF1F85AA": {
+      "matches": false,
+      "material": "staxel.tile.ocean.OceanTile",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF1FACA0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedSkeleton1Soul",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF20130D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedVanity",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF202020": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicBlueDoor",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF202A7D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Tip_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF20E686": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Base",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF212121": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeStainedWindow",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF218D65": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingNewelLeft",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF21BC4C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Left",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF221712": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedDresser",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF222222": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter3",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF2256DA": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Base_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF2294A2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.GuardSkeleton1",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF232323": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter1",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF232326": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingNewelLeft",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF232327": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingNewelRight",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF2391CC": {
+      "matches": false,
+      "material": "staxel.tileObject.mines.MushroomBlue1",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF23F82C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripWallLamp2",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF242424": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter4",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF242427": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingOuterNewel",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF243E1B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackFootLamp2",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF24B3E0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1CenterLow",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF251253": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Left",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF252525": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumShutter4",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF252529": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingStraight",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF25FE81": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Base_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF27253A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.bathroom.Towel2Blue",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF27BF62": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.UndeadFood",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF27D0B2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Left",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF28613B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Right",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF289018": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Tip_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF28F60B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1CenterLow",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF29106A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackCarpet3x3",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF293707": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Right",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF2A19CB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF2A2A2A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.bathroom.SinkSilver",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF2A4A32": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneStool",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF2A5882": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Full",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF2A79B1": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackFootLamp2",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF2AB17D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF2ACC83": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleStaircaseMiddle",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF2B5660": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.bathroom.ToiletSilver",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF2B5D14": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackCeilingLamp2",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF2B9E99": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Base_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF2BA250": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF2C2B36": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.bathroom.Towel1Blue",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF2DB3F6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisHeavy",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF2DF09F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter2",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF2E870F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Left",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF2F55F8": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicWhiteDoor",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF2FBF44": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF30670C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperMouldingGhostBlue",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF31412C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.BloodDecanter",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF322949": {
+      "matches": false,
+      "material": "staxel.tile.creepy.PurpleGrassLayer.2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF3272BA": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Tip_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF329DA7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisLight",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF32A818": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Base_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF32C5F5": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.BeadBoardGuard",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF343434": {
+      "matches": false,
+      "material": "staxel.tileObject.roofing.black.Black_Flat",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF347DCD": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Base_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF35356A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeStainedWindow",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF354928": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeWindow",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF3666E6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.bathroom.Towel2Blue",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF36996B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Tip_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF36D84F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperMouldingGuardDotGreen",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF36E0C4": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Base_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF373738": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.bathroom.ClawfootShowerLeftBlue",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF37428E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneWallLamp",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF381923": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Right",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF382054": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.Plants.BlackRose",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF395005": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Tip_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF3A3945": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.SapphireParquet",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF3B1C59": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneWallLamp",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF3C8CE2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Base_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF3DB663": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.Plants.RedClayPlantPotPumpkin",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF3EAB46": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF3EB350": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperCrownGuardGhostBlue",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF3ECB5C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Tip_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF404040": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.SnookerCues",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF4182C3": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumShutter2",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF41F3C6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3CenterLow",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF42178F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter1",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF42D1D2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Base_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF437A62": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.SpookyWinglessArmChair",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF4483A4": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2CenterLow",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF452210": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.victorian.VictorianSideTable.NoDock",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF4589DB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Base_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF462771": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleChair",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF466132": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Base_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF46DE6B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5CenterLow",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF472772": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleThrone",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF475EBF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Base_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF487477": {
+      "matches": false,
+      "material": "staxel.tileObject.office.OfficeFilingCabinet",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF4981CE": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumShutter1",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF49A387": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Right",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF4AC499": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.Bone.BoneLamp2",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF4ACAB0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackStraight",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF4B2D76": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Base_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF4B4F3A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Base_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF4BC547": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF4C7EBB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Left",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF4D299A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicWhiteDoor",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF4DDCFF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2CenterLow",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF4E2A0E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperMouldingGuardBatPurple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF4E2B7D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleLongStool",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF4E4D53": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.SapphireLineH",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF4EE055": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackWallLamp2",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF4F2B0E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.BeadBoard",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF4F3796": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumShutter4",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF504E58": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.ChessTable",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF50909F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.Plants.DarkRedRose",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF50DB12": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingOuterCorner",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF5126C2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter1",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF512991": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Base_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF517D29": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Full",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF526C2E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperCrownBatPurple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF52C866": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackCeilingLamp2",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF533083": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Base_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF533381": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.SpookyWinglessArmChair",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5424D0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2Right",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF543826": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripBookshelf",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF54C35F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Base_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF550448": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.SpookySilverWinglessArmChair",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF555963": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BlueBrickStairs",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF5597A2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackRoof_Normal_OuterCorner",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF57418F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleFootLamp",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF57762D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Tip_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF57DC64": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4CenterLow",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF57E33E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Base_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF584FB4": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Base_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF58FFE5": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicDoorFrame",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF59F9D4": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2Base",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF5A338F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Base_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5A4798": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Tip_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF5A4B09": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackCeilingLamp2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5AAF52": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.victorian.VictorianChair",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF5AB4C7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPumpkin",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5B341C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperMouldingGuardStripePurple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5BA3E8": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2Right",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF5C3C27": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.Plants.BlackRose",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5C5A58": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Organ",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF5C5C5A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackLongStool",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF5C5C5C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackSkeleton1Soul",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5CE61B": {
+      "matches": false,
+      "material": "staxel.tileObject.mines.MushroomGreen5",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF5D5C5F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.SapphireCorner",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5D8CED": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.Plants.BlackRose",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF5DA3D5": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumShutter3",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF5E2B12": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleSkeleton1Soul",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5E3120": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.Plants.WiltedRose",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF5E3922": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.Plants.DarkRedRose",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF5ED347": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperCrownGuardHandGreen",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5EF177": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingNewelLeft",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF5F200F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripTableLarge(NoDock)",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5F3010": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2CenterLow",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF5F3598": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5FACB9": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackRoof_Normal_Straight",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF603599": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Tip_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF603699": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Tip_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF603D93": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.SpookySilverCardTable(NoDock)",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF61369A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Tip_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF61369B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF613A91": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleFutonLeft",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF61BC73": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleStaircaseRight",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF62379C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Base_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF63379D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Tip_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF63389E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF633F6A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Full",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF63503D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackRoof_Normal_Straight_Upsidedown",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF63C300": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleSkeleton1Soul",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF64389F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Base_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF6438A0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Tip_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF64417E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Right",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF64AC30": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleChair",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF6521A9": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.SpookyWinglessArmChair",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF652D23": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.Plants.RedClayPlantPotWilted",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF655131": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.PackingBox1",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF659F83": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneStool",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF65C347": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Tip_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF663AA2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Tip_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF66518A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleCarpet3x3",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF666972": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.BrickSide2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF6674E1": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripWallLamp2",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF67107B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Tip_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF683BA5": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_Full_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF686864": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackLoveseat",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF692889": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackArmChair",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF695505": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingStraight",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF69645D": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.ChimneyPipeSmall",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF69CDDF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedSkeleton1Soul",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF6A1E50": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.victorian.VictorianArmChair",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF6AB3C0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackRoof_Normal_InnerCorner_Upsidedown",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF6AB553": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingOuterCorner",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF6B04EE": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Base_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF6B4897": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Snooker",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF6B6555": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.Plants.RedClayPlantPotPumpkin",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF6BA085": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneChair",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF6ED2E1": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedChandelier3",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF6FD3E2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedFootLamp",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF70183B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Base",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF7040B0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_Flat_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF70D4E2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedSoulLamp",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF7111E6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_FullCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF715D94": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.SpookySilverWinglessArmChair",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF717372": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackFutonLeft",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF727171": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Full",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF72726E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackArmChair",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF727272": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicWhiteDoor",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF72D46A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Tip_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF733A96": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripWallLamp",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF737272": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Base",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF737373": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicDoorFrame",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF73B8B2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Base_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF73C3C3": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingOuterNewel",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF73C3D1": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackRoof_Normal_Flat",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF742AD0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Base",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF74361D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.RustyWeatherVane",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF74C3D1": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackRoof_Normal_Straight_Upsidedown",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF765B7E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperMouldingDamaskRed",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF7684D3": {
+      "matches": false,
+      "material": "staxel.tileObject.mines.MushroomBlue3",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF769471": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Base_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF76B266": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Base_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF76FFCB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleStaircaseRight",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF7784D2": {
+      "matches": false,
+      "material": "staxel.tileObject.mines.MushroomBlue1",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF779C4F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Tip_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF78066C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleFutonLeft",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF78385C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingOuterNewel",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF789196": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedChandelier",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF79585B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Right",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF79C136": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2Base",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF7A9570": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneSingleBed(NoDock)",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF7ABEDE": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperCrownStripePurple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF7ABFFA": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Right",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF7B8E8D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripCrystalBall",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF7C0258": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackChandelier2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF7C5727": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.Plants.squareTreeWilted",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF7C66A5": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.spooky.SpookyBed",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF7C66DD": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Tip_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF7CD177": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Right",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF7D170A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripTVStand",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF7D77AB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2Full",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF7D7A02": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingMiddle",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF7DC8CE": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Tip_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF7EA5AE": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicSmallWindow",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF7EDB96": {
+      "matches": false,
+      "material": "staxel.tileObject.mines.MushroomGreen3",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF7F8BD0": {
+      "matches": false,
+      "material": "staxel.tileObject.mines.MushroomBlue4",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF807F7F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Base",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF808BD0": {
+      "matches": false,
+      "material": "staxel.tileObject.mines.MushroomBlue5",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF8096EC": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperCrownStripeBlue",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF80D0D9": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalChandelier",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF8144BB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Full",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF815B3E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter1",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF818181": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Full",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF81B8C8": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleFutonRight",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF81DA96": {
+      "matches": false,
+      "material": "staxel.tileObject.mines.MushroomGreen1",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF83C53E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicOctagonalWindow",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF83CCD4": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrashedChandelier",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF83D0EF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripWallLamp",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF840AD8": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumShutter2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF8443F8": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Tip_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF84579F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingStraight",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF84E0BA": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingInnerNewel",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF84F1FD": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisLight",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF850AAD": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Left",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF857A97": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleLamp",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF857A98": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleWallLamp",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF858FD1": {
+      "matches": false,
+      "material": "staxel.tileObject.mines.MushroomBlue2",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF867B98": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleCeilingLamp",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF87CAE0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Base",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF87D999": {
+      "matches": false,
+      "material": "staxel.tileObject.mines.MushroomGreen5",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF87DA9A": {
+      "matches": false,
+      "material": "staxel.tileObject.mines.MushroomGreen4",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF887C9B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleFootLamp",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF888095": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleChandelier",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF888787": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Right",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF8927F0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Full",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF89480B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF895EA5": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.BeadBoardMouldingGuard",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF8965E2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Tip_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF898888": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Base",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF89F813": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleThrone",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF8A0B3D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Left",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF8A6B40": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.Crate",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF8C63C6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleSkeleton1Soul",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF8C7597": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.BloodGoblet",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF8C8C8C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Full",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF8CEC0E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Tip_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF8DBDB3": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Base_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF8DD0FE": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperMouldingGuardDamaskRed",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF8DF179": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedChandelier3",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF8EB142": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2Full",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF8EE6E6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackStraight",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF8F0D04": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.victorian.VictorianChair",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF8FA359": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleStaircaseMiddle",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF8FD42A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperStripeBlue",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF900C04": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.victorian.VictorianArmChair",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF9043F2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Base_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF90B3C3": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperBatPurple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF90C926": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Tip_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF928C7F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingInnerNewel",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF92DA9F": {
+      "matches": false,
+      "material": "staxel.tileObject.mines.MushroomGreen2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF92DDF9": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisLight",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF93888D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.Poker",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF940802": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.victorian.VictorianStool",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF94D262": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleWallLamp",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF950B04": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.victorian.VictorianLoveseat",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF959494": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2Base",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF96A401": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackMiddle",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF96ACC6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF96C62A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.UndeadFood",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF977BC7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperCrownGuardStripePurple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF987D75": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Left",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF994F26": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.Plants.roundTreeWilted",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF999898": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Left",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF99E309": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF9A3030": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Tip_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF9A55F4": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Tip_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF9A9999": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Right",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF9AB6FC": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF9B698A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Base_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF9B9A9A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Base",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF9C1A63": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Base_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF9EF816": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperMouldingGuardDotBlack",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFA0AE65": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperCrownDotBlack",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFA15426": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Full",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFA1DEF1": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_Full_Stars",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFA1E3C2": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.Bone.BoneLamp",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFA23836": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackWallLamp2",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFA25634": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.OuijaTable",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFA3ACAC": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingOuterNewel",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFA41658": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFA43B4A": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.Bone.BoneLamp2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFA4A298": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackBookshelf",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFA543AE": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackMiddle",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFA5802A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4CenterLow",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFA5BF51": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleStaircaseRight",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFA6277F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFA7A831": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_FullCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFA7EF72": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleStaircaseLeft",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFA7FFC5": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleStaircaseLeft",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFA9A43E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Full",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFA9A9D5": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFAA3B91": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisHeavy",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFAAB3B4": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingOuterCorner",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFAB102A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingStraight",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFAB6A1F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Full",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFABACAD": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackChandelier2",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFABEBBD": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperMouldingDotGreen",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFACB5B5": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.MarbleCheckerboardDark",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFAD25E7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_Full_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFADADAD": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.GuardSkeleton1",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFAFACAB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.UndeadFood",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFAFAFAF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.bathroom.ToiletPaperSilver",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFAFE4C9": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneWallLamp",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB026C9": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Base_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFB02729": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumShutter1",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFB0A775": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumWindow",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB0B0A8": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GreyWoodPillar",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFB0DEEB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackRoof_Normal_Flat",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB0E826": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingInnerNewel",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFB19B87": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingStraight",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFB1D0C0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneChandelier",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFB20647": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripBookshelf",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFB2BBBB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingNewelLeft",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFB2BCBC": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingNewelRight",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFB35977": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Tip_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFB38EFE": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleStaircaseLeft",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFB3BEBA": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.bathroom.ToiletGold",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB44306": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.bathroom.Towel2Red",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFB49029": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackRoof_Normal_Straight",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFB4F414": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperCrownStripeRed",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB5A515": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Base_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFB5B4AB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneWardrobeSingle",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB5B71F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Tip_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFB5B8B8": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackFootLamp2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB5B9AD": {
+      "matches": false,
+      "material": "staxel.tile.happyBlocks.brick.BlueBrick",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB5D9C6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneFootLamp",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFB645DA": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2Right",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB7558C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingStraight",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB78C4F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingNewelRight",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFB8AF5A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneCarpet3x3",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFB8EA99": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumShutter4",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFB9390F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2Full",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFB98B32": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Base_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFB98E2D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackCarpet3x3",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFBA08DB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Left",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFBAB9B0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Harpsichord",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFBABC41": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Tip_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFBB4733": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneSideTable.NoDock",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFBC1B44": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Base_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFBC5EED": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleStaircaseMiddle",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFBC774F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter2",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFBCC41C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedSideTable.NoDock",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFBCC5C6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleStaircaseRight",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFBCC6C6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleStaircaseLeft",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFBD09BF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Base_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFBD2DCF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumWindow",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFBD5DD7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackChandelier2",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFBDB5A7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.bathroom.SinkGold",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFBDBDB4": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneVanity",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFBDBDB5": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneSideTable.NoDock",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFBE79EB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.Bonecredenza",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFBEEDBF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Tip_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFBF1108": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Tip_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFBFC9CA": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingStraight",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFBFD8E7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter4",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFBFEAF2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumShutter1",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFC003F0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFC0BFB5": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneDresser",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFC0C0B7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.Bonecredenza",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFC0C2C3": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackWallLamp2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFC0FC30": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Tip_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFC16342": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_Flat_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFC1C3C3": {
+      "matches": false,
+      "material": "staxel.tileObject.themedfurniture.Bone.BoneLamp2",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFC23554": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.GuardSkeleton1",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFC2CCCC": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingInnerNewel",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFC2FF26": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPumpkin",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFC3CFCE": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFC46C97": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackWallLamp2",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFC4DBCF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneSkullCandle",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFC54FF9": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisHeavy",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFC64343": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleWallLamp",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFC69694": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.BloodGoblet",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFC6A1A0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.BloodDecanter",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFC6A9C8": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BlueBrickStairs",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFC6C6BD": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneTVStand",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFC6E678": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleSkeleton1Soul",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFC6E78D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Right",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFC6E863": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Tip_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFC74058": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperMouldingGuardHandGreen",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFC8D2B1": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicDoorFrameExtraLarge",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFC9765F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripChandelier",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFCA0A7A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Tip_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFCAB520": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Tip_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFCAD3D7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.MarbleCheckerboard",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFCB1EE6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3CenterLow",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFCB5637": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripLamp2",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFCB5F38": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripCeilingLamp2",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFCB8272": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter3",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFCBCBC2": {
+      "matches": false,
+      "material": "staxel.tile.happyBlocks.wood.GreyWood",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFCBEAE7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackBookshelf",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFCC1BA3": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Left",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFCC5C3D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripWallLamp",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFCCFE74": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.Plants.WiltedRose",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFCD4E29": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Base_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFCD5138": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripWallLamp2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFCD76F3": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackCorner",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFCD8629": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_Full_Stars",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFCD87AC": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GreyWoodPillar",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFCDBAD3": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleFootLamp",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFCE79E8": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperMouldingDotBlack",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFCF04D0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.Bonecredenza",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFCF7FC6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingNewelLeft",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFD022DC": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Tip_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFD0BEAB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.bathroom.ClawfootShowerLeftRed",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFD1EA56": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedSideTable.NoDock",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFD289C7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5CenterLow",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFD2DCCB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_TAO_Base_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFD364EF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3Left",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFD45314": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperCrownGuardStripeBlue",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFD47BCE": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.BloodGoblet",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFD48215": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.bathroom.Towel1Red",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFD4EAC7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneChair",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFD4F2F3": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperCrownGuardBatPurple",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFD53E33": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.Bonecredenza",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFD57F8C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SolariumBlackStraight",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFD5B014": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicMediumShutter3",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFD7DAC3": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeWindow",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFD7E166": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.SpookySilverSideboard",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFDAB51A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_TAO_Base_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFDABC45": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingOuterCorner",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFDB0169": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingNewelRight",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFDB0934": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4CenterLow",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFDBAA7A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BoneSet.BoneBlackFutonRight",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFDD2297": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFDDADE9": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Tip_Straight_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFDEDAF1": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Right",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFDF5226": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_Full_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFDFDD43": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Base_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFE138C7": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_OuterCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFE1AA8F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisLight",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFE2E16E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Left",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFE3EFEF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleStaircaseMiddle",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFE49DEE": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Tip_Straight_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFE5458A": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperDamaskRed",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFE774DF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.SapphireLineV",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFE7CABB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tile.WallPaperMouldingGuardStripeRed",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFE7F3F3": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.AMarbleLandingMiddle",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFE7FD9C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Tip_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFE88513": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisHeavy",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFE8B248": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleChandelier",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFE8BD7C": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Base_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFE9385D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3CenterLow",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFEA907B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Tip_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFEACBB2": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.bathroom.ToiletPaperGold",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFEC1BC4": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Right",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFEC4891": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Left",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFECC432": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.SpookyWinglessArmChair",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFED7BA6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleLamp",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFEDCDB6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Base",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFEE2A0F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.Dripping",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFEF4FD0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Base_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFEF6394": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_Normal_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFEFA5EF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedPurpleCarpet3x3",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFF05169": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe4Base",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFF07268": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe2Left",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFF0C50E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.SpookySilverWinglessArmChair",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFF0DFFA": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Right",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFF263A6": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Right",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFF26738": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.Plants.BlackRose",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFF2675E": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter3",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFF2908B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.SpookySet.BloodDecanter",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFF2CEF9": {
+      "matches": false,
+      "material": "staxel.tileObject.mines.MushroomBlue2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFF45494": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Base_InnerCorner_Upsidedown_Night",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFF78B0D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_Normal_Full_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFF7F8F4": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.DripSet.DripWallLamp2",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFF900E5": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingOuterNewel",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFF98FE0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.WroughtRailingStraight",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFF9E117": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Plank_OAT_Tip_Straight_Upsidedown_Stars",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFFB106F": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Base",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFFD1CFB": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeShutter4",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFFDC818": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.GuardSkeleton1",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFFE41FF": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe3CenterLow",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFFE5327": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Roof.Scallop_OAT_Tip_InnerCorner_Purple",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFFE8B6D": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe1Base",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFFF5E44": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Left",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFFFFC4B": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.OrganPipe5Base",
+      "requireEmpty": false,
+      "rotation": 1
+    }
+  },
+  "origin": {
+    "x": 167,
+    "y": 0,
+    "z": -528
+  },
+  "size": {
+    "x": 106,
+    "y": 40,
+    "z": 61
+  },
+  "voxels": "efficiency1.qb"
+}

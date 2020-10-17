@@ -1,0 +1,232 @@
+{
+  "categories": [
+    "crop",
+    "plant",
+    "produce",
+    "growable",
+    "pumpkin",
+    "vegetable",
+    "blue",
+    "seed",
+    "seeds",
+    "packet",
+    "large"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.crop.SoulPumpkin",
+  "growthTime": 5,
+  "icon": "mods/PumpkingFeastExpansion/plant/crop/SoulPumpkinSeedpacket.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 45,
+    "value": 120
+  },
+  "searchable": true,
+  "seasons": [
+    "autumn"
+  ],
+  "stages": {
+    "PumpkinFruited": {
+      "alt": 5,
+      "interactionEntityAction": "staxel.entityAction.HarvestFruitedPlant",
+      "offset": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.PickCrops",
+      "pickEntirely": true,
+      "pickedTreasure": "staxel.treasure.PumpkinHarvest",
+      "scytheable": {},
+      "wilted": "PumpkinWiltedFruited",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PumpkinSprout1": {
+      "alt": 1,
+      "grow": "PumpkinSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "wilted": "PumpkinWilted1",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PumpkinSprout2": {
+      "alt": 2,
+      "grow": "PumpkinSprout3",
+      "growWindow": {
+        "x": 2,
+        "y": 2
+      },
+      "scytheable": {},
+      "wilted": "PumpkinWilted2",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PumpkinSprout3": {
+      "alt": 3,
+      "grow": "PumpkinSprout4",
+      "growWindow": {
+        "x": 2,
+        "y": 2
+      },
+      "scytheable": {},
+      "wilted": "PumpkinWilted3",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PumpkinSprout4": {
+      "alt": 4,
+      "grow": "PumpkinFruited",
+      "growWindow": {
+        "x": 2,
+        "y": 2
+      },
+      "scytheable": {},
+      "wilted": "PumpkinWilted4",
+      "wiltedWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PumpkinWilted1": {
+      "alt": 6,
+      "grow": "PumpkinSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "PumpkinWithered1",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PumpkinWilted2": {
+      "alt": 7,
+      "grow": "PumpkinSprout2",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "PumpkinWithered2",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PumpkinWilted3": {
+      "alt": 8,
+      "grow": "PumpkinSprout3",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "PumpkinWithered3",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PumpkinWilted4": {
+      "alt": 9,
+      "grow": "PumpkinSprout4",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "scytheable": {},
+      "withered": "PumpkinWithered4",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PumpkinWiltedFruited": {
+      "alt": 10,
+      "grow": "PumpkinFruited",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+	  "interactionEntityAction": "staxel.entityAction.HarvestFruitedPlant",
+      "offset": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.PickCrops",
+      "pickEntirely": true,
+      "pickedTreasure": "mods.mb.PumpkingFeastExpansion.treasure.ZombiePumpkinHarvest",
+      "scytheable": {},
+      "withered": "PumpkinWitheredFruited",
+      "witheredWindow": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    "PumpkinWithered1": {
+      "alt": 11,
+      "scytheable": {}
+    },
+    "PumpkinWithered2": {
+      "alt": 12,
+      "scytheable": {}
+    },
+    "PumpkinWithered3": {
+      "alt": 13,
+      "scytheable": {}
+    },
+    "PumpkinWithered4": {
+      "alt": 14,
+      "scytheable": {}
+    },
+    "PumpkinWitheredFruited": {
+      "alt": 15,      
+	  "interactionEntityAction": "staxel.entityAction.HarvestFruitedPlant",
+      "offset": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "particles": "staxel.particle.harvest.PickCrops",
+      "pickEntirely": true,
+      "pickedTreasure": "mods.mb.PumpkingFeastExpansion.treasure.SoulPumpkinHarvest",
+      "scytheable": {},
+    },
+    "seed": {
+      "alt": 0,
+      "grow": "PumpkinSprout1",
+      "growWindow": {
+        "x": 1,
+        "y": 1
+      },
+      "shovelable": {}
+    }
+  },
+  "tile": "mods.mb.PumpkingFeastExpansion.plant.crop.SoulPumpkin"
+}

@@ -1,0 +1,20 @@
+{
+  "__inherits": "staxel/tileObject/bridge.config",
+  "attachToBelow": false,
+  "categories": [
+    "bridge",
+    "misc",
+    "black",
+    "metal"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicBridgeRailLeft",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 50
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Exterior/GothicBridgeRailLeft.qb"
+}

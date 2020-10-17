@@ -1,0 +1,28 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "Mod Bucket",
+    "Halloween",
+    "Pumpking",
+	"blue",
+	"brick",
+	"stairs",
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.BlueBrickPath1",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Exterior/BlueBrickPath1.qb"
+}

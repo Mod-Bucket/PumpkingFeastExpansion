@@ -1,0 +1,13 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.treasure.ZombiePumpkinHarvest",
+  "entries": [
+    {
+      "weight": 100.0,
+      "items": [
+        {
+          "code": "mods.mb.PumpkingFeastExpansion.item.crops.ZombiePumpkin"
+        }
+      ]
+    }
+  ]
+}

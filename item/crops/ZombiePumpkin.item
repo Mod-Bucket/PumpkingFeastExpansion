@@ -1,0 +1,49 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+    "market",
+    "fruit",
+    "pumpkin",
+    "zombie",
+	"green",
+	"dead",
+    "harvested"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.item.crops.ZombiePumpkin",
+  "eatTime": 3,
+  "feederHelper": {
+    "canReplace": [
+      {
+        "from": "staxel.tileObject.animalFurniture.SlopTroughEmpty",
+        "to": "staxel.tileObject.animalFurniture.SlopTroughFeed"
+      }
+    ],
+    "feedAmount": 8
+  },
+  "icon": "mods/PumpkingFeastExpansion/item/crops/ZombiePumpkin.qb",
+  "inHand": "mods/PumpkingFeastExpansion/item/crops/ZombiePumpkin.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 1,
+    "value": 2
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

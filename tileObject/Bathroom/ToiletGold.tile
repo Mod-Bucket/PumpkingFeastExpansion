@@ -2,6 +2,7 @@
   "__inherits": "staxel/docks/Toilet.config",
   "categories": [
     "furniture",
+	"Toilet",
     "set",
     "chair",
     "seat",

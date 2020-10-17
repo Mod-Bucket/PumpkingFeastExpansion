@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/noDock.config",
+  "categories": [
+    "furniture",
+    "Haunted",
+    "blue",
+    "wood",
+    "set",
+    "table",
+    "surface",
+    "dining",
+    "dinner",
+    "room"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.HauntedSet.HauntedTable(NoDock)",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 1,
+      "z": 3
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/HauntedSet/HauntedTable.qb"
+}
