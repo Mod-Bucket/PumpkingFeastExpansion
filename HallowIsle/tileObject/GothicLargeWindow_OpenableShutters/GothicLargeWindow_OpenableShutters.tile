@@ -1,0 +1,44 @@
+{
+  "__inherits" : "staxel/docks/dockBase.config",
+  "dockDefinition" : "mods.mb.PumpkingFeastExpansion.dock.Dummy",
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.GothicLargeWindow_OpenableShutters",
+  "prefetchTileState": true,
+  "interactVerb": "controlHint.verb.Open",
+  "interactActionTrigger": "staxel.entityAction.OpenOvenAction",
+  "customRendererVoxels": "mods/PumpkingFeastExpansion/HallowIsle/tileObject/GothicLargeWindow_OpenableShutters/GothicLargeWindow_OpenableShutters.qb",
+  "animation": "mods.mb.PumpkingFeastExpansion.boneAnimation.GothicLargeWindow_OpenableShutters",
+  "voxels": "mods/PumpkingFeastExpansion/HallowIsle/tileObject/GothicLargeWindow_OpenableShutters/GothicLargeWindow_OpenableShutters.qb",
+  "categories": [
+    "mod bucket",
+	"pumpking",
+	"halloween",
+	"gothic",
+    "window",
+    "frame",
+    "black",
+    "glass",
+	"blue"
+  ],
+  "attachToBelow": false,
+  "attachmentDirections": [
+    "all"
+  ],
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 4,
+      "z": 1
+    },
+  },
+  "placementDirections": [
+    "all"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 103
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+}

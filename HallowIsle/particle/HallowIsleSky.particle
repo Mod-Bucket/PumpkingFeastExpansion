@@ -1,0 +1,41 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.particle.HallowIsleSky",
+  "position": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "positionSpread": {
+    "x": 50.0,
+    "y": 30.0,
+    "z": 50.0
+  },
+  "gravityFactor": {
+    "x": 0.0,
+    "y": -0.01,
+    "z": 0.0
+  },
+  "emitVelocity": {
+    "x": 0.0,
+    "y": -0.2,
+    "z": 0.0
+  },
+  "emitVelocitySpread": {
+    "x": 2.0,
+    "y": 0.05,
+    "z": 2.0
+  },
+  "color": "645087",
+  "colorSpread": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "particlesPerSecond": 300.0,
+  "liveDuration": 6.0,
+  "angularVelocity": 2.0,
+  "scale": 2.0,
+  "scaleSpread": 0.5,
+  "insideMasking": true,
+  "velocityStretch": 0.0
+}
