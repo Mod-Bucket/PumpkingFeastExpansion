@@ -1,0 +1,10 @@
+{
+  "__inherits": "staxel/effect/base.config",
+  "code": "mods.mb.PumpkingFeastExpansion.effect.Teleport",
+  "sounds": [
+    "mods.mb.PumpkingFeastExpansion.sounds.PortalTeleport"
+  ],
+  "particles": [
+    "staxel.particle.generic.Teleport"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "canBeGifted": false,
+  "categories": [
+    "book"
+  ],
+  "code": "staxel.item.quest.mods.mb.PumpkingFeastExpansion.item.quest.CellarBook",
+  "icon": "mods/PumpkingFeastExpansion/item/quest/CellarBook.qb",
+  "inHand": "mods/PumpkingFeastExpansion/item/quest/CellarBook.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": -0.2,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 1.8,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "canBeGifted": false,
+  "questItem": {},
+  "kind": "staxel.item.CraftItem",
+  "searchable": false,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 0,
+    "value": 40
+  }
+}

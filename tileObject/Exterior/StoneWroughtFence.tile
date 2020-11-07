@@ -1,0 +1,19 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": false,
+  "categories": ["mod bucket", "pumpking", "halloween", "fence", "misc", "stone", "brick", "pillar"],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence",
+  "compound": {
+    "size": {"x": 1, "y": 3, "z": 1}
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 18,
+    "value": 30
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Exterior/StoneWroughtFence.qb"
+}

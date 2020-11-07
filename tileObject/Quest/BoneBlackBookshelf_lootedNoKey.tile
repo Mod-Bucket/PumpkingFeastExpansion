@@ -1,0 +1,28 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": ["quest"],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.quest.BoneBlackBookshelf_lootedNoKey",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 1
+    },
+    "specification": "CCC CXC"
+  },
+  "floats": true,
+  "questTseAppearsOnMap": false,
+  "tileStateKind": "staxel.tileState.Quest",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 10,
+    "value": 5000
+  },
+  "unbreakable": true,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Quest/BoneBlackBookshelf_lootedNoKey.qb",
+  "wallPushOut": true
+}
+

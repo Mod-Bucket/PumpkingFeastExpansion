@@ -1,0 +1,13 @@
+{
+	"code": "mods.mb.PumpkingFeastExpansion.treasure.BoneBlackBookshelf_lootBook",
+	"entries": [
+		{
+		"weight": 1,
+		"items": [
+				{
+				"code": "staxel.item.quest.mods.mb.PumpkingFeastExpansion.item.quest.CellarBook"
+				}
+			]
+		}
+	]
+}

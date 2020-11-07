@@ -1,0 +1,11 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.sounds.PortalAmbience",
+  "sounds": [
+    {
+      "fileType": "Ogg",
+      "file": "mods/PumpkingFeastExpansion/audio/portal/Portal_Ambience",
+      "volume": 1,
+      "emitterCode": "staxel.audioEmitter.Portal"
+    }
+  ]
+}

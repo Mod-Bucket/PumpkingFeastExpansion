@@ -1,0 +1,18 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.weather.HallowIsle",
+  "icon": "staxel/weathers/SunnyIcon.png",
+  "skyColors": "mods.mb.PumpkingFeastExpansion.valueImage.SkyColorsHallowIsle",
+  "skyTexture": "mods/PumpkingFeastExpansion/sky/skycolorstrip_HallowIsle",
+  "skyBoxTexture": "mods/PumpkingFeastExpansion/sky/HallowIsleSkybox",
+  "sunVisible": false,
+  "airParticles": "",
+  "watersCrops": false,
+  "chance": 0.0,
+  "seasons": [],
+  "dayMusic": "mods.mb.PumpkingFeastExpansion.music.HallowIsle_Day",
+  "nightMusic": "mods.mb.PumpkingFeastExpansion.music.HallowIsle_Night",
+  "nightAmbienceSounds": ["staxel.sound.Cricket"],
+  "backgroundAmbienceSound": "mods.mb.PumpkingFeastExpansion.sounds.ambience.HallowIsle",
+  "airParticles": "mods.mb.PumpkingFeastExpansion.particle.HallowIsleSky",
+  "groundParticles": "mods.mb.PumpkingFeastExpansion.particle.HallowIsleGround",
+}

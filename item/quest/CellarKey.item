@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "cellar",
+	"quest"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.item.quest.CellarKey",
+  "icon": "mods/PumpkingFeastExpansion/item/quest/CellarKey.qb",
+  "iconScale": 0.5,
+  "inHand": "mods/PumpkingFeastExpansion/item/quest/CellarKey.qb",
+  "inHandOffset": {
+    "x": 0.1,
+    "y": -0.1,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.4,
+    "z": 0.0
+  },
+  "canBeGifted": false,
+  "questItem": {},
+  "kind": "staxel.item.CraftItem",
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.1,
+    "y": -0.1,
+    "z": 0.0
+  }
+}

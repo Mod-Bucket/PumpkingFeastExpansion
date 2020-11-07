@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.TreeGate",
+  "customRendererVoxels": "mods/PumpkingFeastExpansion/tileObject/BoneAnimations/treeGate/TreeGate.qb",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneAnimations/treeGate/TreeGate.qb",
+  "categories": [
+    "Mod Bucket",
+    "Halloween",
+    "Pumpking",
+    "gate",
+    "fence"
+	],
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 300,
+    "value": 400
+  },
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 4,
+      "z": 6
+    }
+  },
+  "searchable": true,
+  "prefetchTileState": true,
+  "tileStateKind": "staxel.tileState.DoorTileState",
+  "animation": "mods.mb.PumpkingFeastExpansion.animation.TreeGate",
+  "collision": false,
+  "attachToBelow": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "pathFindingNoCollision": true
+}

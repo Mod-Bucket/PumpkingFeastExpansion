@@ -1,0 +1,42 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "hatch"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.magicTeleport.HallowIsleExit",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 300,
+    "value": 500
+  },
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 2
+    }
+  },
+  "searchable": false,
+  "unbreakable": true,
+  "emissiveColor": "ffe1b6e3",
+  "light": 1.5,
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "prefetchTileState": true,
+  "variants": [
+    "mods/PumpkingFeastExpansion/tileObject/Portal/HallowIsleExit.qb",
+    "mods/PumpkingFeastExpansion/tileObject/Portal/HallowIsleExit1.qb"
+  ],
+  "frameAnimatedTile": {
+    "frameTime": 0.3,
+    "sounds": "mods.mb.PumpkingFeastExpansion.sounds.PortalAmbience"
+  },
+  "interactEffect": "mods.mb.PumpkingFeastExpansion.effect.Teleport",
+  "interactVerb": "controlHint.verb.Teleport",
+  "magicTeleport": {
+    "offmapTemplate" : "mods.mb.PumpkingFeastExpansion.structure.HallowIsle.offmap",
+    "returnsFromQuest": true,
+    "forceReturn": true
+  },
+}

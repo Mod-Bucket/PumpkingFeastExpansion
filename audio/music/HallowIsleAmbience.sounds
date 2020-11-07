@@ -1,0 +1,10 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.sounds.ambience.HallowIsle",
+  "sounds": [
+    {
+      "file": "mods/PumpkingFeastExpansion/audio/music/HallowIsle_Ambience_Loop",
+      "volume": 0.3,
+      "fileType": "Ogg"
+    }
+  ]
+}

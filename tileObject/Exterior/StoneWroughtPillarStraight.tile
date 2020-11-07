@@ -1,0 +1,178 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": ["mod bucket", "pumpking", "halloween", "fence", "misc", "stone", "brick", "pillar"],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtPillarStraight",
+  "compound": {
+    "size": {"x": 1, "y": 3, "z": 1}
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 18,
+    "value": 30
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Exterior/StoneWroughtPillarStraight.qb",
+  
+/*"autoTileInfo": [
+
+  {
+    "directionsToLookIn": [
+      {
+        "direction": "front",
+        "rotationToLookFor": 0,
+        "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence"]
+      }
+    ],
+    "results": [
+      {
+        "direction": "none",
+        "rotation": 1,
+        "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtPillarStraight"
+      }
+    ]
+  },
+  {
+    "directionsToLookIn": [
+      {
+        "direction": "front",
+        "rotationToLookFor": 2,
+        "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence"]
+      }
+    ],
+    "results": [
+      {
+        "direction": "none",
+        "rotation": 0,
+        "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtPillarStraight"
+      }
+    ]
+  },
+
+////// Corner //////
+  {
+    "directionsToLookIn": [
+      {
+        "direction": "front",
+        "rotationToLookFor": 0,
+        "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence"]
+      }
+    ],
+    "results": [
+      {
+        "direction": "none",
+        "rotation": 1,
+        "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtPillarCorner"
+      }
+    ]
+  },
+  {
+    "directionsToLookIn": [
+      {
+      "direction": "back",
+      "rotationToLookFor": 0,
+      "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence"]
+      }
+    ],
+  "results": [
+      {
+      "direction": "none",
+      "rotation": 1,
+      "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtPillarCorner"
+     }
+    ]
+  },
+  {
+      "directionsToLookIn": [
+      {
+        "direction": "front",
+        "rotationToLookFor": 2,
+        "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence"]
+      }
+    ],
+    "results": [
+      {
+        "direction": "none",
+        "rotation": 3,
+        "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtPillarCorner"
+      }
+    ]
+  },
+
+  {
+  {
+    "directionsToLookIn": [
+      {
+      "direction": "back",
+      "rotationToLookFor": 2,
+      "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence"]
+      }
+    ],
+    "results": [
+      {
+      "direction": "none",
+      "rotation": 1,
+      "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtPillarCorner"
+      }
+    ]
+  },
+
+
+////// T section //////
+  {
+    "directionsToLookIn": [
+      {
+        "direction": "front",
+        "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence"]
+      },
+      {
+        "direction": "left",
+        "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence"]
+      },
+      {
+        "direction": "back",
+        "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence"]
+      }
+    ],
+    "results": [
+      {
+        "direction": "none",
+        "rotation": 1,
+        "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtPillarTSection"
+      }
+    ]
+  },
+
+
+////// Cross //////
+  {
+  "directionsToLookIn": [
+      {
+      "direction": "front",
+      "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence"]
+      },
+      {
+      "direction": "left",
+      "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence"]
+      },
+      {
+      "direction": "back",
+      "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence"]
+      },
+      {
+        "direction": "right",
+        "tilesToLookFor": ["mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtFence"]
+      }
+    ],
+  "results": [
+      {
+      "direction": "none",
+      "rotation": 0,
+      "tileToPlace": "mods.mb.PumpkingFeastExpansion.tileObject.Exterior.StoneWroughtPillarCross"
+      }
+    ]
+  }
+]*/
+}
