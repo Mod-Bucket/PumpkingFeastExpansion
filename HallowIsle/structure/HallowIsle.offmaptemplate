@@ -1,0 +1,16 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.structure.HallowIsle.offmap",
+  "template": "mods.mb.PumpkingFeastExpansion.structure.HallowIsle",
+  "stopFromGettingExhausted": true,
+  "worldLocation" : {"x": -40000, "y": 0, "z": 20000},
+  "bounds": {
+    "min": {"x": -10, "y": -10, "z": -10},
+    "max": {"x": 10, "y": 10, "z": 10},
+    "returnFromQuest": true
+  },
+  "resetDay": 1,
+  "weatherOverride": "mods.mb.PumpkingFeastExpansion.weather.HallowIsle",
+  "notifyReset": true,
+  "notifyResetGlobal": "HallowIsleInitiated",
+  "resetNotification": "staxel.notifications.GalaxyIslandReset"
+}

@@ -1,0 +1,17 @@
+{
+    "file": "worldGen.config", //Case sensitive
+    "priority": 2, //Higher priority leads to this patch being applied later than others.
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  "structures": {
+    "features": [
+	  {
+        "kind": "featureOffmap",
+        "offmap": "mods.mb.PumpkingFeastExpansion.structure.HallowIsle.offmap",
+        "allowSurfaceAlts": false,
+        "allowGatherables": false
+      }
+    ]
+      }
+    }
+}
