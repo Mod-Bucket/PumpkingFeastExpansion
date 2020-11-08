@@ -32,7 +32,6 @@
     "sellPrice": 10,
     "value": 5000
   },
-  "unbreakable": true,
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
   "voxels": "mods/PumpkingFeastExpansion/tileObject/BoneSet/BoneBookshelf.qb",
