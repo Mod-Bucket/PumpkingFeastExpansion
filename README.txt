@@ -16,3 +16,7 @@ Organ Pipe Noises:
 Harpsichord:
 	Mozart K426 Pawel Malecki Pianoteq 6, H. Ruckers Harpsichord, full stops.
 	https://steamcommunity.com/id/pawelmalecki/myworkshopfiles/
+
+Skybox art:
+	Sarcosmic
+
