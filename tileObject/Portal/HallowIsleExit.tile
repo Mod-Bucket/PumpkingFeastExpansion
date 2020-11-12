@@ -12,24 +12,26 @@
   },
   "compound": {
     "size": {
-      "x": 1,
+      "x": 3,
       "y": 3,
-      "z": 2
+      "z": 1
     }
   },
   "searchable": false,
   "unbreakable": true,
-  "emissiveColor": "ffe1b6e3",
-  "light": 1.5,
+  "emissiveColor": "1B0236",
+  "light": 1.0,
   "tileStateKind": "staxel.tileState.FrameAnimated",
   "useCustomRendering": true,
   "prefetchTileState": true,
   "variants": [
-    "mods/PumpkingFeastExpansion/tileObject/Portal/HallowIsleExit.qb",
-    "mods/PumpkingFeastExpansion/tileObject/Portal/HallowIsleExit1.qb"
+    "mods/PumpkingFeastExpansion/tileObject/Portal/HallowIsleExit2.qb?size={43,52,16}?offset={0,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/Portal/HallowIsleExit2.qb?size={43,52,16}?offset={43,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/Portal/HallowIsleExit2.qb?size={43,52,16}?offset={86,0,0}",
+    "mods/PumpkingFeastExpansion/tileObject/Portal/HallowIsleExit2.qb?size={43,52,16}?offset={129,0,0}"
   ],
   "frameAnimatedTile": {
-    "frameTime": 0.3,
+    "frameTime": 0.2,
     "sounds": "mods.mb.PumpkingFeastExpansion.sounds.PortalAmbience"
   },
   "interactEffect": "mods.mb.PumpkingFeastExpansion.effect.Teleport",
