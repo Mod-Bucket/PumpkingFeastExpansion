@@ -1,0 +1,18 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.character.Tiah",
+  "name": "Tiah",
+  "personality": "mods.mb.PumpkingFeastExpansion.personality.Tiah",
+  "initialDesign": "staxel.village.design.VillagerMale",
+  "initialOutfit": "mods.mb.PumpkingFeastExpansion.outfit.Tiah",
+  "ignoreTotemClaimed": true,
+  "polaroid": "staxel/village/character/polaroids/WrenPolaroid.png",
+  "hideFromMap": false,
+  "randomVisit":{
+    "spawner": "mods.mb.PumpkingFeastExpansion.tileObject.villagers.TiahSpawner",
+    "canVisitRandom": true,
+    "maxStay": 1,
+    "chance": 0.4,
+    "requiresGlobal": "TiahSpawning"
+  },
+  "acceptsGift": false
+}

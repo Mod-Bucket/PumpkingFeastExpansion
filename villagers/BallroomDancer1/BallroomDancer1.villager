@@ -1,7 +1,7 @@
 {
   "code": "mods.mb.PumpkingFeastExpansion.personality.BallroomDancer1",
   "idleScript": "staxel.script.ChillingScript",
-  "primaryDialogue": "staxel.village.dialogue.Lily",
+  "primaryDialogue": "mods.mb.PumpkingFeastExpansion.dialogue.BallroomDancer1",
   "suppressGeneralDialogue": true,
   "canGiveQuests": false,
   "canOverrideBehaviour": false,

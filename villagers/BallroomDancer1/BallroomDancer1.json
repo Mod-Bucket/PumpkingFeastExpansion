@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Start",
+    "body": [
+      "<<lockPlayerInConversation>>",
+      "<<typewriterMode on>>",
+      "You know what would be perfect right now? #line:10000100",
+      "A huge sandwich with all the trimmings! #line:10000200",
+      "<<typewriterMode off True True>>",
+      "<<releasePlayerFromConversation>>"
+    ],
+    "tags": "",
+    "colorID": 0,
+    "position": {
+      "x": -19,
+      "y": 0
+    }
+  }
+]a

@@ -1,8 +1,8 @@
 {
   "__inherits": "staxel/spawnCrate/VillagerCrate.config",
-  "code": "mods.mb.PumpkingFeastExpansion.tileObject.villagers.CleanerSpawner",
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.villagers.TiahSpawner",
   "customRendererVoxels": "staxel/tileObject/villagers/Spawner.qb",
-  "searchable": true,
+  "searchable": false,
   "spawner": {
     "destroyDelay": 1000000,
     "spawnDelay": 0,
@@ -10,7 +10,7 @@
     "spawnParticles": "",
     "suppressRendering": true,
     "villager": {
-      "code": "mods.mb.PumpkingFeastExpansion.character.Cleaner"
+      "code": "mods.mb.PumpkingFeastExpansion.character.Tiah"
     }
   },
   "voxels": "staxel/tileObject/villagers/Spawner.qb"

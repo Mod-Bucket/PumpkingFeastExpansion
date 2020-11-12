@@ -1,6 +1,6 @@
 {
   "__inherits": "staxel/spawnCrate/VillagerCrate.config",
-  "code": "mods.mb.PumpkingFeastExpansion.tileObject.BallroomDancer1Spawner",
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.villagers.BallroomDancer1Spawner",
   "customRendererVoxels": "staxel/tileObject/villagers/Spawner.qb",
   "searchable": true,
   "spawner": {

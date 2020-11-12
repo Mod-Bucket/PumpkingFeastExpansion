@@ -1,0 +1,9 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.personality.CirahnaMom",
+  "idleScript": "staxel.script.PostmanScript",
+  "primaryDialogue": "mods.mb.PumpkingFeastExpansion.dialogue.CirahnaMom",
+  "suppressGeneralDialogue": true,
+  "canGiveQuests": false,
+  "canOverrideBehaviour": false,
+  "canLeaveTown": true
+}

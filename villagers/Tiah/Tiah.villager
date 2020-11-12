@@ -1,0 +1,9 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.personality.Tiah",
+  "idleScript": "staxel.script.PostmanScript",
+  "primaryDialogue": "mods.mb.PumpkingFeastExpansion.dialogue.Tiah",
+  "suppressGeneralDialogue": true,
+  "canGiveQuests": false,
+  "canOverrideBehaviour": false,
+  "canLeaveTown": true
+}

@@ -1,6 +1,6 @@
 {
   "__inherits": "staxel/spawnCrate/VillagerCrate.config",
-  "code": "mods.mb.PumpkingFeastExpansion.tileObject.ScientistSpawner",
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.villagers.ScientistSpawner",
   "customRendererVoxels": "staxel/tileObject/villagers/Spawner.qb",
   "searchable": true,
   "spawner": {

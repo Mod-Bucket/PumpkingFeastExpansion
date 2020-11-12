@@ -1,0 +1,18 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.character.CirahnaMom",
+  "name": "CirahnaMom",
+  "personality": "mods.mb.PumpkingFeastExpansion.personality.CirahnaMom",
+  "initialDesign": "staxel.village.design.VillagerMale",
+  "initialOutfit": "mods.mb.PumpkingFeastExpansion.outfit.CirahnaMom",
+  "ignoreTotemClaimed": true,
+  "polaroid": "staxel/village/character/polaroids/WrenPolaroid.png",
+  "hideFromMap": false,
+  "randomVisit":{
+    "spawner": "mods.mb.PumpkingFeastExpansion.tileObject.villagers.CirahnaMomSpawner",
+    "canVisitRandom": true,
+    "maxStay": 1,
+    "chance": 0.4,
+    "requiresGlobal": "CirahnaMomSpawning"
+  },
+  "acceptsGift": false
+}

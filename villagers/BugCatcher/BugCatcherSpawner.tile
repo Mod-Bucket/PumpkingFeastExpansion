@@ -1,6 +1,6 @@
 {
   "__inherits": "staxel/spawnCrate/VillagerCrate.config",
-  "code": "mods.mb.PumpkingFeastExpansion.tileObject.villagers.CleanerSpawner",
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.villagers.BugCatcherSpawner",
   "customRendererVoxels": "staxel/tileObject/villagers/Spawner.qb",
   "searchable": true,
   "spawner": {
@@ -10,7 +10,7 @@
     "spawnParticles": "",
     "suppressRendering": true,
     "villager": {
-      "code": "mods.mb.PumpkingFeastExpansion.character.Cleaner"
+      "code": "mods.mb.PumpkingFeastExpansion.character.BugCatcher"
     }
   },
   "voxels": "staxel/tileObject/villagers/Spawner.qb"
