@@ -1,0 +1,23 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.job.Fisher",
+  "startingTime": 0,
+  "endingTime": 1440,
+  "dialoguePools": [
+    "staxel.dialoguePool.SweeperJob"
+  ],
+  /*"jobItems": [
+    {
+      "code": "staxel.item.tool.Rod",
+    }
+  ],*/
+  "weightedScripts": [
+    /*{
+      "script": "mods.mb.PumpkingFeastExpansion.script.EatScript",
+      "weight": 20.0
+    },*/
+    {
+      "script": "staxel.script.LookAroundIdle",
+      "weight": 5.0
+    },
+  ]
+}

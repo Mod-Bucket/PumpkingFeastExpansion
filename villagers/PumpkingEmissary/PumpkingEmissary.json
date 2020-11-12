@@ -1,0 +1,555 @@
+[
+    {
+        "title": "Start",
+        "position": {
+            "x": 535,
+            "y": 265
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "<<lockPlayerInConversation>>",
+            "<<typewriterMode on>>",
+            "<<if $daysSinceLastFest is 0 or $daysSinceLastFest is null>>",
+            "    <<set $said_hello to 0>>",
+            "    <<set $daysSinceLastFest to $day>>",
+            "<<else>>",
+            "    <<if $daysSinceLastFest + 10 < $day>>",
+            "        <<set $said_hello to 0>>",
+            "        <<set $daysSinceLastFest to $day>>",
+            "    <<endif>>",
+            "<<endif>>",
+            "",
+            "<<if $said_hi is 0>>",
+            "    <<loadVillagerName Riah $r_name>>",
+            "    Myahaha! #line:10000100",
+            "    The Pumpking Feast descends upon the mortal realm once more! #line:10000200",
+            "    Each year, the great, the wise, the magnificent Pumpking gra- #line:10000300",
+            "    Mya? ^c:1486b0;$r_name;^c:pop;? I think you have the wrong person... #line:10000400",
+            "    I am none other than the ^c:1486b0;Pumpking's Emissary^c:pop;! #line:10000500",
+            "    Each year, I descend to bring joy to the village! #line:10000600",
+            "    ...m...mya... #line:10000700",
+            "    As a special treat, I have some ^c:d03e37;recipes^c:pop; to get you started with the festive spirit! #line:1000720",
+            "    <<giveItemToPlayer recipe staxel.crafting.recipes.CraftChickenBoxHead>>",
+            "    <<giveItemToPlayer recipe staxel.crafting.recipes.CraftFrankensteinBoxHead>>",
+            "    <<giveItemToPlayer recipe staxel.crafting.recipes.CraftMurmurBoxHead>>",
+            "    <<giveItemToPlayer recipe staxel.crafting.recipes.CraftSkeletonBoxHead>>",
+            "    <<giveItemToPlayer recipe staxel.crafting.recipes.CraftVampireBoxHead>>",
+            "    <<giveItemToPlayer recipe staxel.crafting.recipes.CraftWerewolfBoxHead>>",
+            "    If you use these to memorise the ^c:d03e37;recipes^c:pop;, you can create some nice treats! #line:10000770",
+            "    <<giveItemToPlayer recipe staxel.crafting.recipes.ToffeeApple>>",
+            "    <<giveItemToPlayer recipe staxel.crafting.recipes.CandyCorn>>",
+            "    We could really use some help getting things together for the feast... #line:10000780",
+            "    <<set $said_hi += 1>>",
+            "    [[OptionSelect]]",
+            "<<else>>",
+            "    [[Chat]]",
+            "<<endif>>"
+        ]
+    },
+    {
+        "title": "OptionSelect",
+        "position": {
+            "x": 330,
+            "y": 638
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "<<lockPlayerInConversation>>",
+            "<<typewriterMode on>>",
+            "So what can I do for you today? #line:10000800",
+            "[[Why are you here?|Why]] #line:10001000",
+            "[[What should I do?|Explain]] #line:10001100",
+            "[[I have pumpkins!|Pumpkin]] #line:10001300",
+            "[[I have some candy!|Candy]] #line:10001320",
+            "[[Craft me something!|Craft]] #line:10001327",
+            "[[Nothing really...|Nothing]] #line:10001330"
+        ]
+    },
+    {
+        "title": "Why",
+        "position": {
+            "x": 203,
+            "y": 927
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "Allow me to welcome you once more to the Pumpking's Feast mya! #line:10001400",
+            "For only a few days each year, the barriers between our realms wane. #line:10001500",
+            "In this time, we emissaries travel far and wide across the land! #line:10001600",
+            "It's a time of celebration mya! #line:10001700",
+            "We revel in the glory of the great Pumpking's favour! #line:10001800",
+            "Participate enough and we just might make you into an honorary emissary! #line:10001900",
+            "You won't be able to cross between realms though... #line:10002000",
+            "That's a right reserved for us real emissaries! #line:10002100",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "Pumpkin",
+        "position": {
+            "x": 776,
+            "y": 1412
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "<<branchPlayerDoesntHaveEnoughOfItem staxel.item.crops.Pumpkin 5 NoItem>>",
+            "Oooh, yes! #line:10003500",
+            "These ^c:d03e37;pumpkins^c:pop; will be perfect mya! #line:10003600",
+            "Can I take them mya? #line:10003630",
+            "[[Here you go!|TradeP]] #line:10003650",
+            "[[Not right now...|CancelP]] #line:10003670"
+        ]
+    },
+    {
+        "title": "Chat",
+        "position": {
+            "x": 133,
+            "y": 256
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "<<pickRandomPath>>",
+            "<<Mortals>>",
+            "<<Ghost>>",
+            "<<Riah>>",
+            "<<flushRandomPath>>"
+        ]
+    },
+    {
+        "title": "Mortals",
+        "position": {
+            "x": -296,
+            "y": 531
+        },
+        "colorID": 2,
+        "tags": "",
+        "body": [
+            "It's always fun to host this feast mya! #line:10002200",
+            "Some years it can be a bit more lively than others... #line:10002300",
+            "But I really do love spending time amongst mortals mya! #line:10002400",
+            "[[OptionSelect]]"
+        ]
+    },
+    {
+        "title": "Ghost",
+        "position": {
+            "x": -296,
+            "y": 757
+        },
+        "colorID": 2,
+        "tags": "",
+        "body": [
+            "If you see a ghost wandering around... #line:10002500",
+            "Be sure to call out to them mya! #line:10002600",
+            "I think if you're persistent they might open up! #line:10002700",
+            "[[OptionSelect]]"
+        ]
+    },
+    {
+        "title": "Riah",
+        "position": {
+            "x": -290,
+            "y": 990
+        },
+        "colorID": 2,
+        "tags": "",
+        "body": [
+            "<<loadVillagerName Riah $r_name>>",
+            "How many times do you plan to bring this up mya? #line:10002800",
+            "I've never heard of this ^c:1486b0;$r_name;^c:pop; person! #line:10002900",
+            "I'm just the Pumpking's Emissary! #line:10003000",
+            "[[OptionSelect]]"
+        ]
+    },
+    {
+        "title": "Explain",
+        "position": {
+            "x": 334,
+            "y": 1292
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "Was there something specific you wanted me to illuminate? #line:10003100",
+            "[[How do I make candy?|HowCandy]] #line:10003200",
+            "[[What if I don't have pumpkins?|HowPumpkin]] #line:10003300",
+            "[[How do I carve pumpkins?|HowCarve]] #line:10003400"
+        ]
+    },
+    {
+        "title": "Nothing",
+        "position": {
+            "x": 759,
+            "y": 574
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "NoItem",
+        "position": {
+            "x": 1024,
+            "y": 1416
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "Mmmmya? #line:10003700",
+            "You clearly don't have enough! #line:10003800",
+            "I asked for five ^c:d03e37;pumpkins^c:pop; mya! #line:10003850",
+            "Can't trick me mya! #line:10003900",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "Craft",
+        "position": {
+            "x": 1182,
+            "y": 168
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "What would you like me to craft? #line:10004300",
+            "[[What do I need again?|Ingredients]] #line:10004400",
+            "[[I want the Pumpking hat!|Hat]] #line:10004500",
+            "[[I want the Pumpking scythe!|Scythe]] #line:10004600"
+        ]
+    },
+    {
+        "title": "Ingredients",
+        "position": {
+            "x": 965,
+            "y": -98
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "Alright mya! #line:10004700",
+            "If you're after the ^c:d03e37;Pumpking Emissary head piece^c:pop;... #line:10004800",
+            "You'll need to bring me a ^c:d03e37;Jack O' Lantern^c:pop; mya! #line:10004900",
+            "The ^c:d03e37;Pumpking Scythe^c:pop; is a little challenging! #line:10005000",
+            "You need to challenge the maze in the ^c:1486b0;fairgrounds^c:pop; mya! #line:10005100",
+            "It's pretty sinister myahaha! It came with us from the Pumpking's realm! #line:10005200",
+            "Bring me the ^c:d03e37;Pumpking Vine^c:pop; you find at the centre. #line:10005300",
+            "Oh, and a ^c:d03e37;Scythe^c:pop; too of course! #line:10005400",
+            "Then I can make you what you need mya! #line:10005500",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "Hat",
+        "position": {
+            "x": 1294,
+            "y": -153
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "<<branchPlayerDoesntHavePlayerItem staxel.tileObject.creepyBiome.PumpkinLight NoCarvedPumpkin2>>",
+            "Oooh, this will do nicely mya! #line:10005600",
+            "Just give me one moment... #line:10005700",
+            "<<removePlayerItem staxel.tileObject.creepyBiome.PumpkinLight 1>>",
+            "<<giveItemToPlayer clothing staxel.accessories.characters.accessories.halloween.PumpkingHat>>",
+            "And there you go mya! #line:10005800",
+            "Remember, this doesn't make you a real Emissary of the Pumpking though! #line:10005900",
+            "So don't get too full of yourself mya! #line:10006000",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "Scythe",
+        "position": {
+            "x": 1523,
+            "y": 214
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "<<branchPlayerDoesntHavePlayerItem staxel.tileObject.festival.PumpkingVine NoVine>>",
+            "<<branchPlayerDoesntHavePlayerItem staxel.item.tool.Scythe NoScythe>>",
+            "Yes! These are exactly what I needed to craft one mya! #line:10006010",
+            "Let's see... I think this goes here and that goes there... #line:10006020",
+            "<<removePlayerItem staxel.tileObject.festival.PumpkingVine 1>>",
+            "<<removePlayerItem staxel.item.tool.Scythe 1>>",
+            "<<giveItemToPlayer item staxel.item.tool.PumpkingScythe>>",
+            "Make good use of it! Remember, it's for plants only mya! #line:10006030",
+            "<<completeFestivalQuest staxel.festivalQuest.PumpkingFeast>>",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "NoCarvedPumpkin2",
+        "position": {
+            "x": 1211,
+            "y": -418
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "Hmm... #line:10006100",
+            "It doesn't look like you have a ^c:d03e37;Jack O' Lantern^c:pop; for me... #line:10006200",
+            "Come back when you do mya! #line:10006300",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "NoVine",
+        "position": {
+            "x": 1593,
+            "y": -41
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "I can't make you a scythe if you don't bring me a ^c:d03e37;Pumpking Vine^c:pop; mya! #line:10006400",
+            "You'll find one at the centre of the maze in the ^c:1486b0;festival grounds^c:pop;! #line:10006500",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "NoScythe",
+        "position": {
+            "x": 1817,
+            "y": -23
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "Hmm, it looks like you have the ^c:d03e37;vine^c:pop;... #line:10006600",
+            "But you need to bring me a ^c:d03e37;Scythe^c:pop; too mya! #line:10006700",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "HowCandy",
+        "position": {
+            "x": -74,
+            "y": 1289
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "I gave you some ^c:d03e37;recipes^c:pop; earlier! #line:10006800",
+            "You can follow those to craft as many treats as you like mya! #line:10006900",
+            "If you bring some to me, I can trade them in for something extra rare... #line:10007000",
+            "That's right mya! ^c:d03e37;Magic Water^c:pop;! #line:10007100",
+            "You really don't see the stuff very often but the Pumpking is pretty generous! #line:10007200",
+            "I'll trade you one for either ^c:d03e37;3 Toffee Apples^c:pop; or ^c:d03e37;2 Candy Corn^c:pop;! #line:10007300",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "HowPumpkin",
+        "position": {
+            "x": -48,
+            "y": 1557
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "Hmm, let me guess mya... #line:10007400",
+            "'Isn't it a bit late for me to grow ^c:d03e37;pumpkins^c:pop; in time?!' #line:10007500",
+            "I can see it written on your face mya! #line:10007600",
+            "But no, if you bring me ^c:d03e37;candy^c:pop;, I'll trade it for ^c:d03e37;Magic Water^c:pop;! #line:10007700",
+            "Then you can grow ^c:d03e37;pumpkins^c:pop; in no time mya! #line:10007800",
+            "Once you've proven you can grow ^c:d03e37;pumpkins^c:pop;... mmya... say around five of them... #line:10007900",
+            "I'll teach you how to ^c:d03e37;carve^c:pop; them into ^c:d03e37;spooky lanterns^c:pop;! #line:10008000",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "HowCarve",
+        "position": {
+            "x": 233,
+            "y": 1617
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "<<if $pumpkins is 0>>",
+            "   I can't really help you with ^c:d03e37;carving pumpkins^c:pop; yet mya... #line:10008100",
+            "   You need to bring me a few of them first! #line:10008200",
+            "<<else>>",
+            "   Mmkay mya! #line:10008300",
+            "   You can use the ^c:d03e37;Pumpkin Carving Station^c:pop; I gave you to ^c:d03e37;carve pumpkins^c:pop;! #line:10008400",
+            "   The results can be pretty spooky mya! #line:10008500",
+            "   Bring me one of those and I can craft you a ^c:d03e37;Pumpking head^c:pop; just like mine! #line:10008600",
+            "<<endif>>",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "TradeP",
+        "position": {
+            "x": 579,
+            "y": 1840
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "Alright then! #line:10008700",
+            "Let me just take those off you mya! #line:10008800",
+            "<<removePlayerItem staxel.item.crops.Pumpkin 4>>",
+            "<<giveItemToPlayer tilePlacer staxel.tileObject.festival.PumpkinCarvingStation>>",
+            "<<set $pumpkins to 1>>",
+            "You can use this ^c:d03e37;Pumpkin Carving Station^c:pop; to carve ^c:d03e37;pumpkins^c:pop;! #line:10008900",
+            "You'll notice that I only took four ^c:d03e37;pumpkins^c:pop; off you mya... #line:10009000",
+            "Feel free to try it out on the remaining one! #line:10009100",
+            "They'll light up and make nice spooky decorations mya! #line:10009200",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "CancelP",
+        "position": {
+            "x": 895,
+            "y": 1760
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "Okay mya... #line:10009300",
+            "Feel free to bring them by later! #line:10009400",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "Candy",
+        "position": {
+            "x": 1084,
+            "y": 975
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "Oh? What do you have for me mya? #line:10009500",
+            "[[3x Toffee Apple|Apple]] #line:10009600",
+            "[[2x Candy Corn|Corn]] #line:10009700"
+        ]
+    },
+    {
+        "title": "Apple",
+        "position": {
+            "x": 1581,
+            "y": 789
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "<<branchPlayerDoesntHaveEnoughOfItem staxel.item.festival.ToffeeApple 3 NotEnough>>",
+            "Those look super tasty mya! Can I have them? #line:10009800",
+            "[[Sure!|CompleteApple]] #line:10009900",
+            "[[Nah...|CancelC]] #line:10010000"
+        ]
+    },
+    {
+        "title": "Corn",
+        "position": {
+            "x": 1550,
+            "y": 1417
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "<<branchPlayerDoesntHaveEnoughOfItem staxel.item.festival.CandyCorn 2 NotEnough>>",
+            "Oooh, I just know everyone will love these mya! #line:10010100",
+            "[[Here you go!|CompleteCandy]] #line:10010200",
+            "[[They're mine!|CancelC]] #line:10010300"
+        ]
+    },
+    {
+        "title": "NotEnough",
+        "position": {
+            "x": 1552,
+            "y": 1086
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "Hm? Mya... #line:10010400",
+            "This isn't quite enough mya... #line:10010500",
+            "It's either ^c:d03e37;3 Toffee Apples^c:pop; or ^c:d03e37;2 Candy Corn^c:pop; mya... #line:10010600",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "CancelC",
+        "position": {
+            "x": 1873,
+            "y": 1084
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "Alright mya. Come back anytime! #line:10010700",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "CompleteApple",
+        "position": {
+            "x": 2105,
+            "y": 790
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "<<removePlayerItem staxel.item.festival.ToffeeApple 3>>",
+            "[[GiveWater]]"
+        ]
+    },
+    {
+        "title": "GiveWater",
+        "position": {
+            "x": 2299,
+            "y": 1095
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "Wonderful mya! #line:10010800",
+            "<<giveItemToPlayer item staxel.item.tool.MagicWater>>",
+            "As promised, ^c:d03e37;Magic Water^c:pop;! Make sure to use it wisely mya! #line:10010900",
+            "<<typewriterMode off True True>>",
+            "<<releasePlayerFromConversation>>"
+        ]
+    },
+    {
+        "title": "CompleteCandy",
+        "position": {
+            "x": 2059,
+            "y": 1410
+        },
+        "colorID": 0,
+        "tags": "",
+        "body": [
+            "<<removePlayerItem staxel.item.festival.CandyCorn 2>>",
+            "[[GiveWater]]"
+        ]
+    }
+]

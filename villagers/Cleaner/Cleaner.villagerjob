@@ -1,0 +1,31 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.job.Cleaner",
+  "startingTime": 0,
+  "endingTime": 1440,
+  "dialoguePools": [
+    "staxel.dialoguePool.SweeperJob"
+  ],
+  "jobItems": [
+    {
+      "code": "staxel.item.tool.Broom"
+    }
+  ],
+  "weightedScripts": [
+    {
+      "script": "staxel.script.SweepScript",
+      "weight": 15.0
+    },
+    {
+      "script": "staxel.script.LookAroundIdle",
+      "weight": 5.0
+    },
+    {
+      "script": "staxel.script.WanderScript",
+      "weight": 10.0
+    },
+    {
+      "script": "staxel.script.ScratchHeadScript",
+      "weight": 2.5
+    }
+  ]
+}

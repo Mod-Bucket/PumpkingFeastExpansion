@@ -1,0 +1,9 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.personality.Fisher",
+  "idleScript": "staxel.script.ChillingScript",
+  "primaryDialogue": "staxel.village.dialogue.Lily",
+  "suppressGeneralDialogue": true,
+  "canGiveQuests": false,
+  "canOverrideBehaviour": false,
+  "canLeaveTown": true
+}

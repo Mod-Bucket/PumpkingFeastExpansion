@@ -1,0 +1,12 @@
+{
+	"file": "staxel/village/outfit/festival/NotRiah.characteroutfit",
+	"priority": 100, 
+	"mergeLists": true,
+	"patch" : {
+		"outfit": {
+			"0": {
+				"accessory": "mods.mb.PumpkingFeastExpansion.accessories.fullBodyOutfits.PumpkingEmissary",
+			}
+		}
+	}
+}

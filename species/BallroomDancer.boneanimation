@@ -1,0 +1,1193 @@
+{
+  "code": "BallroomDancer",
+  "definition": "mods/PumpkingFeastExpansion/species/BallroomDancer.bvh",
+  "offset": {
+    "x": 0.0,
+    "y": 0.775,
+    "z": 0.03125
+  },
+  "translation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "scale": 0.625,
+  "axismode": "XPZPYN",
+  "timelines": {
+    "tpose": {
+      "start": 0,
+      "end": 0
+    },
+    "walk": {
+      "start": 20,
+      "end": 40
+    },
+    "femalewalk": {
+      "start": 50,
+      "end": 70
+    },
+    "run": {
+      "start": 80,
+      "end": 105
+    },
+    "femalerun": {
+      "start": 115,
+      "end": 135
+    },
+    "walkUpper": {
+      "base": 4235,
+      "start": 4240,
+      "end": 4260
+    },
+    "femalewalkUpper": {
+      "base": 4235,
+      "start": 4265,
+      "end": 4285
+    },
+    "runUpper": {
+      "base": 4235,
+      "start": 4290,
+      "end": 4315
+    },
+    "femalerunUpper": {
+      "base": 4235,
+      "start": 4320,
+      "end": 4340
+    },
+    "idle": {
+      "start": 230,
+      "end": 270
+    },
+    "swim": {
+      "start": 4090,
+      "end": 4130
+    },
+    "swimidle": {
+      "start": 4060,
+      "end": 4085
+    },
+    "staxel.animation.HasQuest": {
+      "start": 3960,
+      "end": 4030
+    },
+    "staxel.animation.QuestComplete": {
+      "start": 4030,
+      "end": 4055
+    },
+    "staxel.animation.Shrug": {
+      "start": 150,
+      "end": 200
+    },
+    "staxel.animation.KickStone": {
+      "start": 200,
+      "end": 230
+    },
+    "staxel.animation.LookAround": {
+      "base": 2720,
+      "start": 2735,
+      "end": 2815
+    },
+    "staxel.animation.SteppedInSomething": {
+      "start": 350,
+      "end": 440
+    },
+    "staxel.animation.Watering.begin": {
+      "base": 440,
+      "start": 440,
+      "end": 460
+    },
+    "staxel.animation.Watering.charge": {
+      "base": 440,
+      "start": 460,
+      "end": 469
+    },
+    "staxel.animation.Watering.chargeSplit": {
+      "base": 440,
+      "start": 470,
+      "end": 484
+    },
+    "staxel.animation.Watering.chargeSplit2": {
+      "base": 440,
+      "start": 485,
+      "end": 490
+    },
+    "staxel.animation.Watering.swing": {
+      "base": 440,
+      "start": 450,
+      "end": 500
+    },
+    "staxel.animation.Watering.end": {
+      "base": 440,
+      "start": 500,
+      "end": 505
+    },
+    "staxel.animation.Watering.end2": {
+      "base": 440,
+      "start": 491,
+      "end": 496
+    },
+    "staxel.animation.Waving": {
+      "start": 560,
+      "end": 620
+    },
+    "pick-flower": {
+      "start": 620,
+      "end": 665
+    },
+    "staxel.animation.UseFlower.start": {
+      "base": 620,
+      "start": 620,
+      "end": 628
+    },
+    "staxel.animation.UseFlower.recovery": {
+      "base": 620,
+      "start": 629,
+      "end": 633
+    },
+    "staxel.animation.UseFlower.end": {
+      "base": 620,
+      "start": 634,
+      "end": 639
+    },
+    "staxel.animation.PickBush.start": {
+      "base": 3125,
+      "start": 3160,
+      "end": 3169
+    },
+    "staxel.animation.PickBush.recovery": {
+      "base": 3125,
+      "start": 3170,
+      "end": 3177
+    },
+    "staxel.animation.PickBush.full": {
+      "base": 3125,
+      "start": 3160,
+      "end": 3177
+    },
+    "staxel.animation.PickBush.end": {
+      "base": 3125,
+      "start": 3178,
+      "end": 3182
+    },
+    "staxel.animation.ShakeTree.start": {
+      "start": 3125,
+      "end": 3135
+    },
+    "staxel.animation.ShakeTree.end": {
+      "base": 3125,
+      "start": 3136,
+      "end": 3160
+    },
+    "staxel.animation.PickupItem.begin": {
+      "base": 705,
+      "start": 705,
+      "end": 711
+    },
+    "staxel.animation.PickupItem.end": {
+      "base": 705,
+      "start": 712,
+      "end": 715
+    },
+    "staxel.animation.Seed.begin": {
+      "start": 770,
+      "end": 780
+    },
+    "staxel.animation.Seed.charge": {
+      "base": 770,
+      "start": 777,
+      "end": 780
+    },
+    "staxel.animation.Seed.hold": {
+      "base": 770,
+      "start": 780,
+      "end": 780
+    },
+    "staxel.animation.Seed.swing": {
+      "base": 770,
+      "start": 780,
+      "end": 788
+    },
+    "staxel.animation.Seed.end": {
+      "base": 770,
+      "start": 790,
+      "end": 795
+    },
+    "staxel.animation.DockItem.begin": {
+      "base": 800,
+      "start": 800,
+      "end": 805
+    },
+    "staxel.animation.DockItem.charge": {
+      "base": 800,
+      "start": 805,
+      "end": 805
+    },
+    "staxel.animation.DockItem.hold": {
+      "base": 800,
+      "start": 805,
+      "end": 805
+    },
+    "staxel.animation.DockItem.swing": {
+      "base": 800,
+      "start": 805,
+      "end": 815
+    },
+    "staxel.animation.DockItem.end": {
+      "base": 800,
+      "start": 815,
+      "end": 820
+    },
+    "staxel.animation.UndockItem.begin": {
+      "base": 820,
+      "start": 820,
+      "end": 825
+    },
+    "staxel.animation.UndockItem.charge": {
+      "base": 820,
+      "start": 825,
+      "end": 825
+    },
+    "staxel.animation.UndockItem.hold": {
+      "base": 820,
+      "start": 825,
+      "end": 825
+    },
+    "staxel.animation.UndockItem.swing": {
+      "base": 820,
+      "start": 820,
+      "end": 830
+    },
+    "staxel.animation.UndockItem.end": {
+      "base": 820,
+      "start": 825,
+      "end": 830
+    },
+    "staxel.animation.Stir.begin": {
+      "start": 850,
+      "end": 865
+    },
+    "staxel.animation.Stir.loop": {
+      "base": 850,
+      "start": 865,
+      "end": 885
+    },
+    "staxel.animation.Stir.end": {
+      "base": 850,
+      "start": 885,
+      "end": 895
+    },
+    "staxel.animation.Eat": {
+      "start": 895,
+      "end": 935
+    },
+    "staxel.animation.Eat.begin": {
+      "start": 895,
+      "end": 900
+    },
+    "staxel.animation.Eat.loop": {
+      "base": 895,
+      "start": 900,
+      "end": 925
+    },
+    "staxel.animation.Eat.end": {
+      "base": 895,
+      "start": 930,
+      "end": 935
+    },
+    "staxel.animation.CutFood.begin": {
+      "start": 935,
+      "end": 940
+    },
+    "staxel.animation.CutFood.loop": {
+      "base": 935,
+      "start": 940,
+      "end": 980
+    },
+    "staxel.animation.CutFood.end": {
+      "base": 935,
+      "start": 980,
+      "end": 985
+    },
+    "staxel.animation.Drink": {
+      "start": 985,
+      "end": 1020
+    },
+    "staxel.animation.Drink.begin": {
+      "start": 985,
+      "end": 990
+    },
+    "staxel.animation.Drink.loop": {
+      "base": 985,
+      "start": 990,
+      "end": 1015
+    },
+    "staxel.animation.Drink.end": {
+      "base": 985,
+      "start": 1015,
+      "end": 1020
+    },
+    "staxel.animation.BowlEat.begin": {
+      "start": 985,
+      "end": 990
+    },
+    "staxel.animation.BowlEat.loop": {
+      "base": 985,
+      "start": 990,
+      "end": 1015
+    },
+    "staxel.animation.BowlEat.end": {
+      "base": 985,
+      "start": 1015,
+      "end": 1020
+    },
+    "staxel.animation.Sit.begin": {
+      "start": 1040,
+      "end": 1060
+    },
+    "staxel.animation.Sit.loop": {
+      "base": 1040,
+      "start": 1060,
+      "end": 1070
+    },
+    "staxel.animation.Sit.end": {
+      "base": 1040,
+      "start": 1070,
+      "end": 1095
+    },
+    "staxel.animation.FishingRod.begin": {
+      "start": 1641,
+      "end": 1645
+    },
+    "staxel.animation.FishingRod.cast": {
+      "base": 1641,
+      "start": 1646,
+      "end": 1680
+    },
+    "staxel.animation.FishingRod.wait": {
+      "base": 1641,
+      "start": 1681,
+      "end": 1760
+    },
+    "staxel.animation.FishingRod.hookFail": {
+      "base": 1641,
+      "start": 1761,
+      "end": 1780
+    },
+    "staxel.animation.FishingRod.hook": {
+      "base": 1641,
+      "start": 1781,
+      "end": 1795
+    },
+    "staxel.animation.FishingRod.reel": {
+      "base": 1641,
+      "start": 1796,
+      "end": 1815
+    },
+    "staxel.animation.FishingRod.catch": {
+      "base": 1641,
+      "start": 1781,
+      "end": 1795
+    },
+    "staxel.animation.FishingRod.castFail": {
+      "base": 1641,
+      "start": 1820,
+      "end": 1855
+    },
+    "staxel.animation.FishingRod.end": {
+      "base": 1641,
+      "start": 1856,
+      "end": 1860
+    },
+    "staxel.animation.BugNet.begin": {
+      "start": 1876,
+      "end": 1880
+    },
+    "staxel.animation.BugNet.swingWall.swing": {
+      "base": 1876,
+      "start": 1881,
+      "end": 1895
+    },
+    "staxel.animation.BugNet.swingWall.reel": {
+      "base": 1876,
+      "start": 1896,
+      "end": 1905
+    },
+    "staxel.animation.BugNet.swingFloor.swing": {
+      "base": 1876,
+      "start": 1910,
+      "end": 1920
+    },
+    "staxel.animation.BugNet.swingFloor.reel": {
+      "base": 1876,
+      "start": 1921,
+      "end": 1935
+    },
+    "staxel.animation.BugNet.end": {
+      "base": 1876,
+      "start": 1936,
+      "end": 1940
+    },
+    "staxel.animation.Smoker.begin": {
+      "start": 2665,
+      "end": 2670
+    },
+    "staxel.animation.Smoker.smoke": {
+      "base": 2665,
+      "start": 2671,
+      "end": 2710
+    },
+    "staxel.animation.Smoker.end": {
+      "base": 2665,
+      "start": 2711,
+      "end": 2715
+    },
+    "staxel.animation.Broom.begin": {
+      "start": 3420,
+      "end": 3430
+    },
+    "staxel.animation.Broom.startSweep": {
+      "base": 3420,
+      "start": 3430,
+      "end": 3440
+    },
+    "staxel.animation.Broom.loop": {
+      "base": 3420,
+      "start": 3440,
+      "end": 3440
+    },
+    "staxel.animation.Broom.endSweep": {
+      "base": 3420,
+      "start": 3440,
+      "end": 3450
+    },
+    "staxel.animation.Broom.end": {
+      "base": 3420,
+      "start": 3450,
+      "end": 3460
+    },
+    "staxel.animation.Pickaxe.equip": {
+      "base": 1375,
+      "start": 1375,
+      "end": 1380
+    },
+    "staxel.animation.Pickaxe.hitFail": {
+      "base": 1375,
+      "start": 1381,
+      "end": 1400
+    },
+    "staxel.animation.Pickaxe.recovery": {
+      "base": 1375,
+      "start": 1481,
+      "end": 1490
+    },
+    "staxel.animation.Pickaxe.chargeLoop0": {
+      "base": 1375,
+      "start": 1357,
+      "end": 1365
+    },
+    "staxel.animation.Pickaxe.charge1": {
+      "base": 1375,
+      "start": 1401,
+      "end": 1412
+    },
+    "staxel.animation.Pickaxe.chargeLoop1": {
+      "base": 1375,
+      "start": 1412,
+      "end": 1420
+    },
+    "staxel.animation.Pickaxe.charge2": {
+      "base": 1375,
+      "start": 1421,
+      "end": 1432
+    },
+    "staxel.animation.Pickaxe.chargeLoop2": {
+      "base": 1375,
+      "start": 1432,
+      "end": 1440
+    },
+    "staxel.animation.Pickaxe.charge3": {
+      "base": 1375,
+      "start": 1441,
+      "end": 1457
+    },
+    "staxel.animation.Pickaxe.chargeLoop3": {
+      "base": 1375,
+      "start": 1457,
+      "end": 1465
+    },
+    "staxel.animation.Pickaxe.charge1Swing": {
+      "base": 1375,
+      "start": 1475,
+      "end": 1480
+    },
+    "staxel.animation.Pickaxe.charge2Swing": {
+      "base": 1375,
+      "start": 1496,
+      "end": 1501
+    },
+    "staxel.animation.Pickaxe.charge3Swing": {
+      "base": 1375,
+      "start": 1505,
+      "end": 1510
+    },
+    "staxel.animation.Pickaxe.end": {
+      "base": 1375,
+      "start": 1491,
+      "end": 1495
+    },
+    "staxel.animation.Axe.equip": {
+      "base": 1515,
+      "start": 1515,
+      "end": 1520
+    },
+    "staxel.animation.Axe.hitFail": {
+      "base": 1515,
+      "start": 1521,
+      "end": 1545
+    },
+    "staxel.animation.Axe.chargeLoop0": {
+      "base": 1515,
+      "start": 1862,
+      "end": 1870
+    },
+    "staxel.animation.Axe.charge1": {
+      "base": 1515,
+      "start": 1546,
+      "end": 1557
+    },
+    "staxel.animation.Axe.chargeLoop1": {
+      "base": 1515,
+      "start": 1557,
+      "end": 1565
+    },
+    "staxel.animation.Axe.charge2": {
+      "base": 1515,
+      "start": 1566,
+      "end": 1577
+    },
+    "staxel.animation.Axe.chargeLoop2": {
+      "base": 1515,
+      "start": 1577,
+      "end": 1585
+    },
+    "staxel.animation.Axe.charge3": {
+      "base": 1515,
+      "start": 1586,
+      "end": 1602
+    },
+    "staxel.animation.Axe.chargeLoop3": {
+      "base": 1515,
+      "start": 1602,
+      "end": 1610
+    },
+    "staxel.animation.Axe.charge1Swing": {
+      "base": 1515,
+      "start": 2541,
+      "end": 2545
+    },
+    "staxel.animation.Axe.charge2Swing": {
+      "base": 1515,
+      "start": 2571,
+      "end": 2575
+    },
+    "staxel.animation.Axe.charge3Swing": {
+      "base": 1515,
+      "start": 1616,
+      "end": 1620
+    },
+    "staxel.animation.Axe.recovery": {
+      "base": 1515,
+      "start": 1622,
+      "end": 1635
+    },
+    "staxel.animation.Axe.end": {
+      "base": 1515,
+      "start": 1636,
+      "end": 1640
+    },
+    "staxel.animation.Scythe.equip": {
+      "base": 1250,
+      "start": 1240,
+      "end": 1250
+    },
+    "staxel.animation.Scythe.start": {
+      "base": 1250,
+      "start": 1250,
+      "end": 1255
+    },
+    "staxel.animation.Scythe.chargeLoop0": { //Shouldn't be used but just in case
+      "base": 1250,
+      "start": 1241,
+      "end": 1249
+    },
+    "staxel.animation.Scythe.charge1": {
+      "base": 1250,
+      "start": 1256,
+      "end": 1264
+    },
+    "staxel.animation.Scythe.chargeLoop1": { //Shouldn't be used but just in case
+      "base": 1250,
+      "start": 1267,
+      "end": 1275
+    },
+    "staxel.animation.Scythe.charge2": {
+      "base": 1250,
+      "start": 1276,
+      "end": 1284
+    },
+    "staxel.animation.Scythe.chargeLoop2": { //Shouldn't be used but just in case
+      "base": 1250,
+      "start": 1287,
+      "end": 1295
+    },
+    "staxel.animation.Scythe.charge3": {
+      "base": 1250,
+      "start": 1296,
+      "end": 1309
+    },
+    "staxel.animation.Scythe.chargeLoop3": {
+      "base": 1250,
+      "start": 1312,
+      "end": 1320
+    },
+    "staxel.animation.Scythe.charge1SwingDown": {
+      "base": 1250,
+      "start": 2600,
+      "end": 2603
+    },
+    "staxel.animation.Scythe.charge2SwingDown": {
+      "base": 1250,
+      "start": 2630,
+      "end": 2635
+    },
+    "staxel.animation.Scythe.charge3SwingDown": {
+      "base": 1250,
+      "start": 1325,
+      "end": 1328
+    },
+    "staxel.animation.Scythe.charge1SwingUp": {
+      "base": 1250,
+      "start": 2604,
+      "end": 2620
+    },
+    "staxel.animation.Scythe.charge2SwingUp": {
+      "base": 1250,
+      "start": 2636,
+      "end": 2650
+    },
+    "staxel.animation.Scythe.charge3SwingUp": {
+      "base": 1250,
+      "start": 1329,
+      "end": 1345
+    },
+    "staxel.animation.Scythe.end": {
+      "base": 1250,
+      "start": 1345,
+      "end": 1355
+    },
+    "staxel.animation.Shovel.equip": {
+      "base": 1955,
+      "start": 1955,
+      "end": 1960
+    },
+    "staxel.animation.Shovel.hitFail": {
+      "base": 1955,
+      "start": 1961,
+      "end": 1985
+    },
+    "staxel.animation.Shovel.start": {
+      "base": 1955,
+      "start": 1991,
+      "end": 1995
+    },
+    "staxel.animation.Shovel.chargeLoop0": {
+      "base": 1955,
+      "start": 1942,
+      "end": 1950
+    },
+    "staxel.animation.Shovel.charge1": {
+      "base": 1955,
+      "start": 1996,
+      "end": 2007
+    },
+    "staxel.animation.Shovel.chargeLoop1": {
+      "base": 1955,
+      "start": 2007,
+      "end": 2015
+    },
+    "staxel.animation.Shovel.charge2": {
+      "base": 1955,
+      "start": 2016,
+      "end": 2027
+    },
+    "staxel.animation.Shovel.chargeLoop2": {
+      "base": 1955,
+      "start": 2027,
+      "end": 2035
+    },
+    "staxel.animation.Shovel.charge3": {
+      "base": 1955,
+      "start": 2036,
+      "end": 2052
+    },
+    "staxel.animation.Shovel.chargeLoop3": {
+      "base": 1955,
+      "start": 2052,
+      "end": 2060
+    },
+    "staxel.animation.Shovel.charge1SwingDown": {
+      "base": 1955,
+      "start": 2066,
+      "end": 2070
+    },
+    "staxel.animation.Shovel.charge2SwingDown": {
+      "base": 1955,
+      "start": 2481,
+      "end": 2485
+    },
+    "staxel.animation.Shovel.charge3SwingDown": {
+      "base": 1955,
+      "start": 2511,
+      "end": 2515
+    },
+    "staxel.animation.Shovel.charge1SwingUp": {
+      "base": 1955,
+      "start": 2071,
+      "end": 2080
+    },
+    "staxel.animation.Shovel.charge2SwingUp": {
+      "base": 1955,
+      "start": 2486,
+      "end": 2495
+    },
+    "staxel.animation.Shovel.charge3SwingUp": {
+      "base": 1955,
+      "start": 2516,
+      "end": 2525
+    },
+    "staxel.animation.Shovel.end": {
+      "base": 1955,
+      "start": 2101,
+      "end": 2105
+    },
+    "staxel.animation.Hammer.equip": {
+      "base": 2115,
+      "start": 2115,
+      "end": 2120
+    },
+    "staxel.animation.Hammer.hitFail": {
+      "base": 2115,
+      "start": 2121,
+      "end": 2145
+    },
+    "staxel.animation.Hammer.start": {
+      "base": 2115,
+      "start": 2145,
+      "end": 2148
+    },
+    "staxel.animation.Hammer.chargeLoop0": {
+      "base": 2105,
+      "start": 2106,
+      "end": 2114
+    },
+    "staxel.animation.Hammer.charge1": {
+      "base": 2115,
+      "start": 2151,
+      "end": 2162
+    },
+    "staxel.animation.Hammer.chargeLoop1": {
+      "base": 2115,
+      "start": 2162,
+      "end": 2170
+    },
+    "staxel.animation.Hammer.charge2": {
+      "base": 2115,
+      "start": 2171,
+      "end": 2182
+    },
+    "staxel.animation.Hammer.chargeLoop2": {
+      "base": 2115,
+      "start": 2182,
+      "end": 2190
+    },
+    "staxel.animation.Hammer.charge3": {
+      "base": 2115,
+      "start": 2191,
+      "end": 2207
+    },
+    "staxel.animation.Hammer.chargeLoop3": {
+      "base": 2115,
+      "start": 2207,
+      "end": 2215
+    },
+    "staxel.animation.Hammer.charge1SwingDown": {
+      "base": 2115,
+      "start": 2420,
+      "end": 2423
+    },
+    "staxel.animation.Hammer.charge2SwingDown": {
+      "base": 2115,
+      "start": 2450,
+      "end": 2453
+    },
+    "staxel.animation.Hammer.charge3SwingDown": {
+      "base": 2115,
+      "start": 2220,
+      "end": 2223
+    },
+    "staxel.animation.Hammer.charge1SwingUp": {
+      "base": 2115,
+      "start": 2424,
+      "end": 2440
+    },
+    "staxel.animation.Hammer.charge2SwingUp": {
+      "base": 2115,
+      "start": 2454,
+      "end": 2470
+    },
+    "staxel.animation.Hammer.charge3SwingUp": {
+      "base": 2115,
+      "start": 2454,
+      "end": 2470
+    },
+    "staxel.animation.Hammer.recovery": {
+      "base": 2115,
+      "start": 2455,
+      "end": 2470
+    },
+    "staxel.animation.Hammer.end": {
+      "base": 2115,
+      "start": 2241,
+      "end": 2245
+    },
+    "staxel.animation.Hoe.equip": {
+      "base": 2255,
+      "start": 2255,
+      "end": 2260
+    },
+    "staxel.animation.Hoe.start": {
+      "base": 505,
+      "start": 505,
+      "end": 510
+    },
+    "staxel.animation.Hoe.chargeLoop0": { //Shouldn't be used but just in case
+      "base": 505,
+      "start": 2321,
+      "end": 2330
+    },
+    "staxel.animation.Hoe.charge1": {
+      "base": 505,
+      "start": 2261,
+      "end": 2272
+    },
+    "staxel.animation.Hoe.chargeLoop1": { //Shouldn't be used but just in case
+      "base": 505,
+      "start": 2272,
+      "end": 2280
+    },
+    "staxel.animation.Hoe.charge2": {
+      "base": 505,
+      "start": 2281,
+      "end": 2292
+    },
+    "staxel.animation.Hoe.chargeLoop2": { //Shouldn't be used but just in case
+      "base": 505,
+      "start": 2292,
+      "end": 2300
+    },
+    "staxel.animation.Hoe.charge3": {
+      "base": 505,
+      "start": 2301,
+      "end": 2317
+    },
+    "staxel.animation.Hoe.chargeLoop3": {
+      "base": 505,
+      "start": 2317,
+      "end": 2325
+    },
+    "staxel.animation.Hoe.hitFail": {
+      "base": 2255,
+      "start": 2331,
+      "end": 2345
+    },
+    "staxel.animation.Hoe.charge3Swing": {
+      "base": 505,
+      "start": 520,
+      "end": 525
+    },
+    "staxel.animation.Hoe.charge1Swing": {
+      "base": 505,
+      "start": 2360,
+      "end": 2365
+    },
+    "staxel.animation.Hoe.charge2Swing": {
+      "base": 505,
+      "start": 2390,
+      "end": 2395
+    },
+    "staxel.animation.Hoe.recovery": {
+      "base": 505,
+      "start": 525,
+      "end": 527
+    },
+    "staxel.animation.Hoe.recovery2": {
+      "base": 505,
+      "start": 528,
+      "end": 540
+    },
+    "staxel.animation.Hoe.end": {
+      "base": 505,
+      "start": 2345,
+      "end": 2350
+    },
+    "staxel.animation.Hoe.chargeOld": {
+      "base": 505,
+      "start": 517,
+      "end": 520
+    },
+    "staxel.animation.Hoe.endOld": {
+      "base": 505,
+      "start": 540,
+      "end": 545
+    },
+    "staxel.animation.UseObject.blank": {
+      "base": 795,
+      "start": 795,
+      "end": 800
+    },
+    "staxel.animation.UseObject.begin": {
+      "base": 800/*using dockitem anims*/,
+      "start": 800,
+      "end": 805
+    },
+    "staxel.animation.UseObject.end": {
+      "base": 800,
+      "start": 815,
+      "end": 820
+    },
+    "staxel.animation.Sleep.begin": {
+      "base": 230,
+      "start": 1105,
+      "end": 1149
+    },
+    "staxel.animation.Sleep.loop": {
+      "base": 230,
+      "start": 1150,
+      "end": 1195
+    },
+    "staxel.animation.Sleep.end": {
+      "base": 230,
+      "start": 1195,
+      "end": 1215
+    },
+    "staxel.animation.Milking": {
+      "base": 3220,
+      "start": 3220,
+      "end": 3270
+    },
+    "staxel.animation.Shearing": {
+      "base": 3465,
+      "start": 3465,
+      "end": 3535
+    },
+    "staxel.animation.Petting": {
+      "base": 3270,
+      "start": 3270,
+      "end": 3320
+    },
+    "staxel.animation.UseFail": {
+      "base": 3330,
+      "start": 3330,
+      "end": 3365
+    },
+    "staxel.animation.Wardrobe.open": {
+      "base": 3000,
+      "start": 3000,
+      "end": 3015
+    },
+    "staxel.animation.Wardrobe.idle": {
+      "base": 3000,
+      "start": 3016,
+      "end": 3110
+    },
+    "staxel.animation.Wardrobe.close": {
+      "base": 3000,
+      "start": 3110,
+      "end": 3125
+    },
+    "staxel.animation.Read.begin": {
+      "start": 3365,
+      "end": 3370
+    },
+    "staxel.animation.Read.loop": {
+      "base": 3365,
+      "start": 3371,
+      "end": 3410
+    },
+    "staxel.animation.Read.end": {
+      "base": 3365,
+      "start": 3410,
+      "end": 3415
+    },
+    "femaleidle": {
+      "start": 270,
+      "end": 310
+    },
+    "staxel.animation.ScratchHead": {
+      "base": 3460,
+      "start": 3580,
+      "end": 3620
+    },
+    "staxel.animation.KickBack": {
+      "base": 3460,
+      "start": 3620,
+      "end": 3715
+    },
+    "staxel.animation.Search.begin": {
+      "base": 3460,
+      "start": 3715,
+      "end": 3740
+    },
+    "staxel.animation.Search.loop": {
+      "base": 3715,
+      "start": 3740,
+      "end": 3800
+    },
+    "staxel.animation.Search.end": {
+      "base": 3715,
+      "start": 3800,
+      "end": 3820
+    },
+    "staxel.animation.Inspect.begin": {
+      "base": 3460,
+      "start": 3820,
+      "end": 3821
+    },
+    "staxel.animation.Inspect.end": {
+      "base": 3820,
+      "start": 3821,
+      "end": 3860
+    },
+    "staxel.animation.Yes": {
+      "base": 3460,
+      "start": 3860,
+      "end": 3890
+    },
+    "staxel.animation.No": {
+      "base": 3460,
+      "start": 3890,
+      "end": 3920
+    },
+    "staxel.animation.Whistle.begin": {
+      "start": 3920,
+      "end": 3930
+    },
+    "staxel.animation.Whistle.loop": {
+      "base": 3920,
+      "start": 3931,
+      "end": 3950
+    },
+    "staxel.animation.Whistle.end": {
+      "base": 3920,
+      "start": 3951,
+      "end": 3960
+    },
+    "staxel.animation.Faint.begin": {
+      "base": 230,
+      "start": 4185,
+      "end": 4210
+    },
+    "staxel.animation.Faint.loop": {
+      "base": 230,
+      "start": 4210,
+      "end": 4215
+    },
+    "staxel.animation.Faint.end": {
+      "base": 230,
+      "start": 4215,
+      "end": 4235
+    },
+    "staxel.animation.Laugh": {
+      "start": 4345,
+      "end": 4380
+    },
+    "staxel.animation.Sigh": {
+      "start": 4380,
+      "end": 4405
+    },
+    "staxel.animation.SighAndRollEyes": {
+      "start": 4405,
+      "end": 4440
+    },
+    "staxel.animation.Spell": {
+      "start": 4440,
+      "end": 4495
+    },
+    "staxel.animation.Thinking": {
+      "start": 4495,
+      "end": 4535
+    },
+    "staxel.animation.Fidget": {
+      "start": 4540,
+      "end": 4585
+    },
+    "staxel.animation.Bow": {
+      "start": 4600,
+      "end": 4680
+    },
+    "staxel.animation.Disappointed": {
+      "start": 4700,
+      "end": 4773
+    },
+    "staxel.animation.Startled": {
+      "start": 4800,
+      "end": 4899
+    },
+    "staxel.animation.Defeated": {
+      "start": 4900,
+      "end": 5020
+    },
+    "staxel.animation.Satisfied": {
+      "start": 5100,
+      "end": 5151
+    },
+    "staxel.animation.Cough": {
+      "start": 5170,
+      "end": 5215
+    },
+    "staxel.animation.Poke": {
+      "start": 5250,
+      "end": 5282
+    },
+    "staxel.animation.Surprise": {
+      "start": 5300,
+      "end": 5337
+    },
+    "full": {
+      "start": 1,
+      "end": 5400
+    }
+  },
+  "zbias": {
+    "": 0,
+    "__0": 0,
+    "Torso": 3,
+    "Head": 4,
+    "Shoulder_Right": 4,
+    "UpperArm_Right": 5,
+    "LowerArm_Right": 6,
+    "Hand_Right": 7,
+    "Item_Right": 8,
+    "Shoulder_Left": 4,
+    "UpperArm_Left": 5,
+    "LowerArm_Left": 6,
+    "Hand_Left": 7,
+    "Item_Left": 8,
+    "Thigh_Right": 0,
+    "UpperLeg_Right": 1,
+    "LowerLeg_Right": 2,
+    "Thigh_Left": 0,
+    "UpperLeg_Left": 1,
+    "LowerLeg_Left": 2
+  }
+}

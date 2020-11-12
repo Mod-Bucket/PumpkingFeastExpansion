@@ -1,0 +1,13 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.character.BugCatcher",
+  "name": "BugCatcher",
+  "personality": "mods.mb.PumpkingFeastExpansion.personality.BugCatcher",
+  "initialDesign": "staxel.village.design.VillagerFemale",
+  "initialOutfit": "mods.mb.PumpkingFeastExpansion.outfit.BugCatcher",
+  "polaroid": "staxel/village/character/polaroids/ElfVillager1Polaroid.png",
+  "hideFromMap": false,
+  "ignoreTavern": true,
+  "acceptsGift": false,
+  "job": "mods.mb.PumpkingFeastExpansion.job.BugCatcher",
+  "linkedToOffmap": "mods.mb.PumpkingFeastExpansion.structure.HallowIsle.offmap"
+}

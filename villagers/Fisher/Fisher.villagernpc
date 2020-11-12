@@ -1,0 +1,13 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.character.Fisher",
+  "name": "Fisher",
+  "personality": "mods.mb.PumpkingFeastExpansion.personality.Fisher",
+  "initialDesign": "staxel.village.design.VillagerFemale",
+  "initialOutfit": "mods.mb.PumpkingFeastExpansion.outfit.Fisher",
+  "polaroid": "staxel/village/character/polaroids/ElfVillager1Polaroid.png",
+  "hideFromMap": false,
+  "ignoreTavern": true,
+  "acceptsGift": false,
+  "job": "mods.mb.PumpkingFeastExpansion.job.Fisher",
+  "linkedToOffmap": "mods.mb.PumpkingFeastExpansion.structure.HallowIsle.offmap"
+}

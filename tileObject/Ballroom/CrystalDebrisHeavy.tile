@@ -17,6 +17,8 @@
     "value": 3
   },
   "searchable": true,
+  "collision": false,
+  "pathFindingNoCollision": true,
   "stepSoundGroup": "staxel.sounds.damage.Glass.bottle",
   "voxels": "mods/PumpkingFeastExpansion/tileObject/Ballroom/CrystalDebrisHeavy.qb"
 }

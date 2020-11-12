@@ -6,11 +6,19 @@
   "bounds": {
     "min": {"x": -10, "y": -0, "z": -10},
     "max": {"x": 10, "y": 50, "z": 10},
-    "returnFromQuest": true
+    "teleportOffmapLocation": "mods.mb.PumpkingFeastExpansion.structure.HallowIsle.offmap"
   },
   "resetDay": 1,
   "weatherOverride": "mods.mb.PumpkingFeastExpansion.weather.HallowIsle",
   "notifyReset": true,
   "notifyResetGlobal": "HallowIsleInitiated",
-  "resetNotification": "staxel.notifications.GalaxyIslandReset"
-}
+  "resetNotification": "mods.mb.PumpkingFeastExpansion.notifications.HallowIsleReset",
+  "villagersToReset" : [
+    "mods.mb.PumpkingFeastExpansion.character.Cleaner",
+    "mods.mb.PumpkingFeastExpansion.character.BugCatcher",
+    "mods.mb.PumpkingFeastExpansion.character.Fisher",
+    "mods.mb.PumpkingFeastExpansion.character.Scientist",
+	"mods.mb.PumpkingFeastExpansion.character.BallroomDancer1",
+	"mods.mb.PumpkingFeastExpansion.character.BallroomDancer2"
+	]
+  }

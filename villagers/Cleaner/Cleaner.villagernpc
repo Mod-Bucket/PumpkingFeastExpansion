@@ -1,0 +1,13 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.character.Cleaner",
+  "name": "Cleaner",
+  "personality": "mods.mb.PumpkingFeastExpansion.personality.Cleaner",
+  "initialDesign": "staxel.village.design.VillagerFemale",
+  "initialOutfit": "mods.mb.PumpkingFeastExpansion.outfit.Cleaner",
+  "polaroid": "staxel/village/character/polaroids/ElfVillager1Polaroid.png",
+  "hideFromMap": false,
+  "ignoreTavern": true,
+  "acceptsGift": false,
+  "job": "mods.mb.PumpkingFeastExpansion.job.Cleaner",
+  "linkedToOffmap": "mods.mb.PumpkingFeastExpansion.structure.HallowIsle.offmap"
+}

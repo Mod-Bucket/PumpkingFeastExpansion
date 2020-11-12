@@ -1,0 +1,31 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.job.Scientist",
+  "startingTime": 0,
+  "endingTime": 1440,
+  "dialoguePools": [
+    "staxel.dialoguePool.SweeperJob"
+  ],
+  "jobItems": [
+    {
+      "code": "staxel.item.tool.MagnifyingGlass"
+    }
+  ],
+  "weightedScripts": [
+    {
+      "script": "staxel.script.SearchGroundScript",
+      "weight": 20.0
+    },
+    {
+      "script": "staxel.script.LookAroundIdle",
+      "weight": 5.0
+    },
+    {
+      "script": "staxel.script.WanderScript",
+      "weight": 10.0
+    },
+    {
+      "script": "staxel.script.ScratchHeadScript",
+      "weight": 2.5
+    }
+  ]
+}

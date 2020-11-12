@@ -1,0 +1,13 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.character.BallroomDancer2",
+  "name": "BallroomDancer2",
+  "personality": "mods.mb.PumpkingFeastExpansion.personality.BallroomDancer2",
+  "initialDesign": "mods.mb.PumpkingFeastExpansion.design.BallroomDancer2",
+  "initialOutfit": "mods.mb.PumpkingFeastExpansion.outfit.BallroomDancer2",
+  "polaroid": "staxel/village/character/polaroids/ElfVillager1Polaroid.png",
+  "hideFromMap": false,
+  "ignoreTavern": true,
+  "acceptsGift": false,
+  "job": "mods.mb.PumpkingFeastExpansion.job.BallroomDancer2",
+  "linkedToOffmap": "mods.mb.PumpkingFeastExpansion.structure.HallowIsle.offmap"
+}

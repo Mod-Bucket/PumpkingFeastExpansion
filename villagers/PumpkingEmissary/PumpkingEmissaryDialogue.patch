@@ -1,0 +1,8 @@
+{
+    "file": "staxel/village/job/festival/PumpkingGhost.villagerjob",
+    "priority": 100, 
+    "mergeLists": true,
+    "patch" : {
+  "dialogue": "mods/PumpkingFeastExpansion/villagers/PumpkingEmissary/PumpkingEmissary.json"
+  }
+}

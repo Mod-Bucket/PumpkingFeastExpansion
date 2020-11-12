@@ -1,0 +1,24 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.job.BugCatcher",
+  "startingTime": 0,
+  "endingTime": 1440,
+  "dialoguePools": [
+    "staxel.dialoguePool.SweeperJob"
+  ],
+  /*"jobItems": [
+    {
+      "code": "staxel.item.tool.Net"
+    }
+  ],*/
+  "weightedScripts": [
+    {
+      "script": "staxel.script.LookAroundIdle",
+      "weight": 1.0
+    },
+    /*{
+      "script": "mods.mb.PumpkingFeastExpansion.script.DrinkScript",
+      "weight": 20.0
+    },*/
+
+  ]
+}

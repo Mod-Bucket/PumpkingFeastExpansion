@@ -1,0 +1,20 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.species.BallroomDancer",
+  "icon": "mods/PumpkingFeastExpansion/species/BallroomDancerSpeciesIcon.png",
+  "male": {
+    "icon": "mods/PumpkingFeastExpansion/species/BallroomDancerGenderIcon.png",
+    "bodyType": "mods.mb.PumpkingFeastExpansion.bodyType.BallroomDancer",
+    "model": "",
+    "paletteGroups": [
+      "staxel.palette.group.SkinColours"
+    ]
+  },
+  "female": {
+    "icon": "image/CharacterCreator/ElfFemaleGenderIcon.png",
+    "bodyType": "mods.mb.PumpkingFeastExpansion.bodyType.BallroomDancerFemale",
+    "model": "staxel/characters/species/caith/Caith_Female.qb",
+    "paletteGroups": [
+      "staxel.palette.group.SkinColours"
+    ]
+  },  "playable": false
+}

@@ -1,0 +1,23 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.design.BallroomDancer2",
+  "design": {
+    "_version": 3,
+    "Species": "mods.mb.PumpkingFeastExpansion.species.BallroomDancer",
+    "Gender": "male",
+    "Personality": "staxel.personality.standard",
+    "LeftHanded": false,
+    "Model": {
+      "model": "",
+      "palette": ""
+    },
+    "Hair": {
+      "model": "",
+      "palette": ""
+    },
+    "Eyes": {
+      "model": "",
+      "palette": ""
+    },
+    "revision": 1
+  }
+}

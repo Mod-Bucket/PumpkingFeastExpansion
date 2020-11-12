@@ -36,6 +36,47 @@
       "matches": false,
       "rotation": 0
     },
+    "FF004400": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.CleanerSpawner",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF005000": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BugCatcherSpawner",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF003C14": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.FisherSpawner",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF3CBCFC": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.ScientistSpawner",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFE0FCA0": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BallroomDancer1Spawner",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF887000": {
+      "matches": false,
+      "material": "mods.mb.PumpkingFeastExpansion.tileObject.BallroomDancer2Spawner",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "BC00BC": {
+      "pathingNodeWaypointKind": "Sweeping",
+      "requireEmpty": true,
+      "matches": false
+    },
     "FF183C5C": {
       "matches": false,
       "material": "mods.mb.PumpkingFeastExpansion.tileObject.magicTeleport.HallowIsleExit",

@@ -1,0 +1,13 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidMale"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.accessories.fullBodyOutfits.PumpkingEmissary",
+  "kind": "Shirt",
+  "model": "mods/PumpkingFeastExpansion/villagers/PumpkingEmissary/PumpkingEmissary.qb",
+  "palettes": [
+    "staxel.palette.grey"
+  ],
+  "searchable": false,
+  "subcategory": "tshirt"
+}

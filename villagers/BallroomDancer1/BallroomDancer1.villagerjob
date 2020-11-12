@@ -1,0 +1,24 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.job.BallroomDancer1",
+  "startingTime": 0,
+  "endingTime": 1440,
+  "dialoguePools": [
+    "staxel.dialoguePool.SweeperJob"
+  ],
+  "workPlace": "mods.mb.PumpkingFeastExpansion.totem.BallRoom",
+  "mainWorkplaceTool": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisLight",
+  "workPlaceTools": [
+    "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisLight",
+    "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisHeavy"
+  ],
+  "weightedScripts": [
+    /*{
+      "script": "mods.mb.PumpkingFeastExpansion.script.BowScript",
+      "weight": 20.0
+    },*/
+    {
+      "script": "staxel.script.LookAroundIdle",
+      "weight": 5.0
+    },
+  ]
+}

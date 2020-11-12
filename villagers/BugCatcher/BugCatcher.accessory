@@ -1,0 +1,19 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.accessories.fullBodyOutfits.BugCatcher",
+  "kind": "Shirt",
+  "model": "mods/PumpkingFeastExpansion/villagers/SkeletonAvatar.qb",
+  "palettes": [
+    "staxel.palette.grey"
+  ],
+  "searchable": false,
+  "subcategory": "tshirt",
+  "hidesLayers": [
+    {
+	  "layers": ["Head", "Shoulder_Left", "Shoulder_Right", "Hand_Left", "Hand_Right", "LowerArm_Left", "LowerArm_Right", "UpperArm_Left", "UpperArm_Right", "Torso", "Thigh_Left", "Thigh_Right", "UpperLeg_Left", "UpperLeg_Right", "LowerLeg_Left", "LowerLeg_Right"],
+	  "source": "basemodel"
+    }
+  ]
+}
