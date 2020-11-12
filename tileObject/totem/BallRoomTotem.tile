@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/totems/totemBase.config",
+  "attachToBelow": true,
+  "categories": [
+    "misc",
+    "totem",
+    "sign"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.totems.BallRoom",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 2,
+      "z": 3
+    },
+    "specification": "EEE ECE EEE CCC CXC CCC"
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 10,
+    "value": 50
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.damage.Glass.bottle",
+  "totem": {
+    "code": "mods.mb.PumpkingFeastExpansion.totem.BallRoom"
+  },
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Ballroom/CrashedChandelier.qb"
+}

@@ -1,0 +1,25 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.totem.DiningRoom",
+  "region": {
+    "x": 8,
+    "y": 2,
+    "z": 6
+  },
+  "centreOffset": {
+    "x": -9,
+    "y": 2,
+    "z": 0
+  },
+  "tiers": 1,
+  "requiresRoof": false,
+  "requiredObjects": {
+    "tier0": [
+      {
+        "code": "staxel.tileObject.themedfurniture.victorian.VictorianChair",
+        "count": 6
+      }
+    ]
+  },
+  "notTown": true,
+  "countTilesInDocks": false
+}

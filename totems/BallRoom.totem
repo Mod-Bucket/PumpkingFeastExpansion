@@ -1,0 +1,29 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.totem.BallRoom",
+  "region": {
+    "x": 10,
+    "y": 2,
+    "z": 10
+  },
+  "centreOffset": {
+    "x": 1,
+    "y": 2,
+    "z": 0
+  },
+  "tiers": 1,
+  "requiresRoof": false,
+  "requiredObjects": {
+    "tier0": [
+      {
+        "code": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisLight",
+        "count": 2
+      },
+      {
+        "code": "mods.mb.PumpkingFeastExpansion.tileObject.Ballroom.CrystalDebrisHeavy",
+        "count": 2
+      }  
+    ]
+  },
+  "notTown": true,
+  "countTilesInDocks": false
+}

@@ -1,0 +1,25 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.totem.OuijaRoom",
+  "region": {
+    "x": 4,
+    "y": 2,
+    "z": 6
+  },
+  "centreOffset": {
+    "x": 5,
+    "y": 2,
+    "z": -4
+  },
+  "tiers": 1,
+  "requiresRoof": false,
+  "requiredObjects": {
+    "tier0": [
+      {
+        "code": "mods.mb.PumpkingFeastExpansion.tileObject.OuijaTable",
+        "count": 1
+      }
+    ]
+  },
+  "notTown": true,
+  "countTilesInDocks": false
+}

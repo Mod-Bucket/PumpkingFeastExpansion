@@ -1,0 +1,25 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.totem.HarpsichordRoom",
+  "region": {
+    "x": 4,
+    "y": 2,
+    "z": 5
+  },
+  "centreOffset": {
+    "x": 5,
+    "y": 2,
+    "z": 3
+  },
+  "tiers": 1,
+  "requiresRoof": false,
+  "requiredObjects": {
+    "tier0": [
+      {
+        "code": "mods.mb.PumpkingFeastExpansion.tileObject.Harpsichord",
+        "count": 1
+      }
+    ]
+  },
+  "notTown": true,
+  "countTilesInDocks": false
+}

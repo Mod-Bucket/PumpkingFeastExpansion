@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/tileObject/totems/totemBase.config",
+  "attachToBelow": true,
+  "categories": [
+    "misc",
+    "totem",
+    "sign"
+  ],
+  "code": "mods.mb.PumpkingFeastExpansion.tileObject.totems.HarpsichordRoom",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 2
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 0,
+    "sellable": false,
+    "value": 1000
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "totem": {
+    "code": "mods.mb.PumpkingFeastExpansion.totem.HarpsichordRoom"
+  },
+  "voxels": "mods/PumpkingFeastExpansion/tileObject/Exterior/GothicDoorFrame.qb"
+}
