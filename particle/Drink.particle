@@ -1,0 +1,40 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.particle.item.DrinkGoblet",
+  "position": {
+    "x": -0.00,
+    "y": 0.5,
+    "z": 0.00
+  },
+  "positionSpread": {
+    "x": 0.015,
+    "y": 0.035,
+    "z": 0.015
+  },
+  "gravityFactor": {
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.0
+  },
+  "emitVelocity": {
+    "x": 0.0,
+    "y": 0.4,
+    "z": 0.0
+  },
+  "emitVelocitySpread": {
+    "x": 0.5,
+    "y": 0.8,
+    "z": 0.5
+  },
+  "color": "ffD70606",
+  "colorSpread": {
+    "x": 0.02,
+    "y": 0.02,
+    "z": 0.1
+  },
+  "emitDuration": 1.0,
+  "particlesPerSecond": 100.0,
+  "liveDuration": 0.40,
+  "angularVelocity": 1.0,
+  "scale": 0.3,
+  "scaleSpread": 1.0
+}

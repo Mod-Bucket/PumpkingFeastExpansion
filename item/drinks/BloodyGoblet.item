@@ -8,14 +8,15 @@
 	"red",
     "drink",
 	"Ivanttosuckyourblood",
+	"pumpkingFestDrink"
   ],
   "code": "mods.mb.PumpkingFeastExpansion.item.drinks.BloodyGoblet",
   "eatTime": 2,
   "icon": "mods/PumpkingFeastExpansion/item/drinks/BloodyGoblet.qb",
   "inHand": "mods/PumpkingFeastExpansion/item/drinks/BloodyGoblet.qb",
   "inHandOffset": {
-    "x": 0.1,
-    "y": -0.4,
+    "x": 0.3,
+    "y": -0.2,
     "z": 0.0
   },
   "inHandRotation": {

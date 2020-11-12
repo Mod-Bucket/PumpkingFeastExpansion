@@ -1,15 +1,20 @@
 {
+  "__inherits": "staxel/item/edible.config",
   "categories": [
-    "rice",
-    "octopus",
-    "salt",
-    "fish",
-    "fry"
+	"Pumpking",
+	"Mod Bucket",
+	"Halloween",
+	"Blood",
+	"wine",
+	"red",
+    "drink",
+	"Ivanttosuckyourblood",
+	"pumpkingFestFood"
   ],
-  "code": "mods.food.FriedOctostein",
-  "eatTime": 2,
-  "icon": "mods/test/models/FriedOctostein.qb",
-  "inHand": "mods/test/models/FriedOctostein.qb",
+  "code": "mods.mb.PumpkingFeastExpansion.item.food.placeholder",
+  "eatTime": 4,
+  "icon": "staxel/item/complete/lightMeal/BaconSandwich.qb",
+  "inHand": "staxel/item/complete/lightMeal/BaconSandwich.qb",
   "inHandOffset": {
     "x": 0.0,
     "y": 0.0,
@@ -30,8 +35,8 @@
   "pricing": {
     "catalogueUnlockedFromStart": false,
     "buyable": true,
-    "sellPrice": 180,
-    "value": 300
+    "sellPrice": 547,
+    "value": 912
   },
   "searchable": true,
   "usageOffset": {

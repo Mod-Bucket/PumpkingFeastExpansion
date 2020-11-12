@@ -1,0 +1,9 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.emote.Drink.begin",
+  "animation": "staxel.animation.Drink.begin",
+  "looped": false,
+  "sticky": true,
+  "categories": [
+    "emote"
+  ]
+}

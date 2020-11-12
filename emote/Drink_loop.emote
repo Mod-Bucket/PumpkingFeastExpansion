@@ -1,0 +1,11 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.emote.Drink.loop",
+  "animation": "staxel.animation.Drink.loop",
+  "sound": "staxel.sound.Player.drink.gulp",
+  "looped": true,
+  "effect": "mods.mb.PumpkingFeastExpansion.effect.Drink",
+  "killSound": true,
+  "categories": [
+    "emote"
+  ]
+}
