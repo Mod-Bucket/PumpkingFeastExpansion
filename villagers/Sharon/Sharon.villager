@@ -1,0 +1,8 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.personality.Sharon",
+  "idleScript": "staxel.script.ChillAtTownSquareScript",
+  "primaryDialogue": "mods.mb.PumpkingFeastExpansion.dialogue.Sharon",
+  "canOverrideBehaviour": true,
+  "canLeaveTown": true,
+  "canGiveQuests": false,
+}

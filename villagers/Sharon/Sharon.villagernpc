@@ -1,0 +1,9 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.character.Sharon",
+  "name": "Sharon",
+  "personality": "mods.mb.PumpkingFeastExpansion.personality.Sharon",
+  "job": "mods.mb.PumpkingFeastExpansion.job.Reaper"
+  "initialDesign": "staxel.village.design.VillagerFemale",
+  "initialOutfit": "mods.mb.PumpkingFeastExpansion.outfit.Sharon",
+  "acceptsGift": false
+}

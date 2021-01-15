@@ -1,0 +1,227 @@
+title: Start
+tags: 
+colorID: 0
+position: 972,-1203
+---
+<<lockPlayerInConversation>>
+<<typewriterMode on>>
+
+<<if $daysSinceLastFest is 0 or $daysSinceLastFest is null>>
+    <<set $said_hello to 0>>
+    <<set $daysSinceLastFest to $day>>
+<<else>>
+    <<if $daysSinceLastFest + 10 < $day>>
+        <<set $said_hello to 0>>
+        <<set $daysSinceLastFest to $day>>
+    <<endif>>
+<<endif>>
+
+<<if $said_hello is 0>>
+    
+BEWARE MORTAL! THIS PLACE IS NOT FOR THEE. TURN BACK, LEST YOU FORFEIT YOUR VERY SOUL! #line:10000001
+
+<<set $said_hello to 1>>
+[[OptionSelect]]
+<<else>>
+[[Chat]]
+<<endif>>
+===
+title: Quit
+tags: 
+colorID: 0
+position: 1246,-926
+---
+<<typewriterMode off True True>>
+<<releasePlayerFromConversation>>
+===
+title: Chat
+tags: 
+colorID: 0
+position: 464,-1209
+---
+<<pickRandomPath>>
+<<Hello>>
+<<Hi>>
+<<Greetings>>
+<<flushRandomPath>>
+===
+title: Hello
+tags: 
+colorID: 0
+position: 462,-985
+---
+BEWARE MORTAL-- Oh, it's you. #line:10000002
+[[OptionSelect]]
+===
+title: OptionSelect
+tags: 
+colorID: 0
+position: 980,-671
+---
+[[Where is this place?|Location]] #line:10001100 
+[[Who are you?|WhoIs]] #line:10001200
+<<if $Trial is null>>
+[[Are you the one I give this application to?|Application]] #line:10001300
+<<endif>>
+<<if $Trial is 1 and $Intern is null>>
+[[What did you need me to do again?|SheafOfSouls]]
+[[I have the souls you wanted!|SoulTurnIn]] #line:10001400
+<<endif>>
+<<if $Intern is 1>>
+[[So, can I pass now?|DeathsDue]] #line:10001500
+<<endif>>
+
+===
+title: WhoIs
+tags: 
+colorID: 0
+position: 1455,-663
+---
+I AM THE GRIM REAPER. I GATHER LOST SOULS AND FERRY THEM BEYOND THE VEIL. #line:10005310
+And I handle the boats when someone needs them. #line:10005320
+You can call me Sharon. #line:10005330
+[[OptionSelect]]
+===
+title: SheafOfSouls
+tags: 
+colorID: 3
+position: 969,-173
+---
+A Sheaf of Souls broke apart when I was loading my last ferry load. The slippery little things have gotten everywhere! #line:10015960
+Gather 20 Mischievous Souls and I'll approve your promotion to an actual intern. #line:10015970
+[[OptionSelect]]
+
+===
+title: Application
+tags: 
+colorID: 4
+position: 981,-425
+---
+<<branchPlayerDoesntHaveEnoughOfItem staxel.item.crafting.Egg 1 NoApplication>>
+<<branchPlayerDoesntHaveEnoughOfItem staxel.item.crafting.Egg 1 NoPumpkinHat>>
+<<branchPlayerDoesntHaveEnoughOfItem staxel.item.crafting.Egg 1 NoPumpkinScythe>>
+Internship Application? Let me see that...#line:10015910
+
+<<removePlayerItem staxel.item.crafting.Egg 1>>
+
+Hmm...So Tiah thinks you have potential? #line:10015920
+You do have traces of soul energy on you. And you have the equipment... #line:10015930
+But you're mortal... #line:10015940
+No, I'm afraid the best I can do is a trial internship. #line:10015950
+<<set $Trial to 1>>
+
+[[SheafOfSouls]]
+
+
+
+
+===
+title: Location
+tags: 
+colorID: 0
+position: 1213,-668
+---
+This is the gateway to the Hallow Isle, the land of the dead. #line:10005210 
+Mortals should not be able to come here. You must be very special... or very lost.#line:10005220 
+[[OptionSelect]] 
+===
+title: Hi
+tags: 
+colorID: 0
+position: 461,-746
+---
+COWER BEFORE DEATH! ...Too much? Too much. #line:10000003
+[[OptionSelect]]
+===
+title: Greetings
+tags: 
+colorID: 0
+position: 463,-517
+---
+Hey. What's up? #line:10000004
+[[OptionSelect]]
+===
+title: SoulTurnIn
+tags: 
+colorID: 3
+position: 1236,-174
+---
+<<branchPlayerDoesntHaveEnoughOfItem staxel.item.crafting.Egg 20 NotEnoughSoul>>
+
+Wow! You found all of them?
+I didn't think you could actually do it.
+Most mortals can't see souls.
+Right then, official time. 
+YOU HAVE DONE WELL, MORTAL. YOU ARE WORTHY OF BEING AN INTERN.
+<<removePlayerItem staxel.item.crafting.Egg 20>>
+<<set $Intern to 1>>
+===
+title: NoPumpkinScythe
+tags: 
+colorID: 4
+position: 1778,-428
+---
+Well, you have the right paperwork, and the snappy hat... #line:10023001
+But you've forgotten the most important bit! #line:10023002
+You need a proper pumpking branded scythe!  #line:10023003
+You won't be able to gather more than the weakest souls without it!#line:10023004
+Come back when you're ready to do the job.#line:10023005
+[[Quit]]
+===
+title: NoApplication
+tags: 
+colorID: 4
+position: 1241,-428
+---
+What application? #line:10021100
+I don't see any application. #line:10021200
+....Mortal, are you deliberately wasting my eternity? #line:10021300
+[[OptionSelect]]
+
+===
+title: NoPumpkinHat
+tags: 
+colorID: 4
+position: 1490,-429
+---
+Hmpf! So you have an application. #line:10022001
+I'm not sure what Tiah was thinking! #line:10022002
+You're not even dressed properly!  #line:10022003
+Where's your emmisary Pumpkin hat so people will know what you are?#line:10022004
+Come back when you have the proper equipment.#line:10022005
+[[Quit]]
+===
+title: NotEnoughSoul
+tags: 
+colorID: 3
+position: 1506,-173
+---
+I said 20 Mischievous Souls. Not 19. Not 18. Not negative 5.
+Come back when you can count.
+[[Quit]]
+===
+title: DeathsDue
+tags: 
+colorID: 2
+position: 967,66
+---
+Yep! I can take you across. 
+Toll, Please.
+[[Toll? What toll?]]
+[[I work here now!]]
+Everyone pays. Don't be stingy. It's only a lousy 2P.
+[[Quit]]
+===
+title: NoDeathsDue
+tags: 
+colorID: 2
+position: 1208,64
+---
+...
+......
+.........
+How are you so broke you can't even pay me a lousy 2P?
+We haven't raised the price in millennia! 
+Go sell a cricket or something!
+[[Quit]]
+===

@@ -1,0 +1,19 @@
+{
+  "code": "mods.mb.PumpkingFeastExpansion.job.Reaper",
+  "startingTime": 0,
+  "endingTime": 2359,
+  "dialoguePools": [
+    //"staxel.dialoguePool.SweeperJob"
+  ],
+  "workPlace": "mods.mb.PumpkingFeastExpansion.totem.BallRoom",
+  "mainWorkplaceTool": "mods.mb.PumpkingFeastExpansion.item.tool.GrimScythe",
+  "workPlaceTools": [
+    "mods.mb.PumpkingFeastExpansion.item.tool.GrimScythe"
+  ],
+  "weightedScripts": [
+    {
+      "script": "staxel.script.LookAroundIdle",
+      "weight": 5.0
+    },
+  ]
+}

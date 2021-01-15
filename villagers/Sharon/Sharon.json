@@ -1,0 +1,328 @@
+[
+  {
+    "title": "Start",
+    "body": [
+      "<<lockPlayerInConversation>>",
+      "<<typewriterMode on>>",
+      "",
+      "<<if $daysSinceLastFest is 0 or $daysSinceLastFest is null>>",
+      "    <<set $said_hello to 0>>",
+      "    <<set $daysSinceLastFest to $day>>",
+      "<<else>>",
+      "    <<if $daysSinceLastFest + 10 < $day>>",
+      "        <<set $said_hello to 0>>",
+      "        <<set $daysSinceLastFest to $day>>",
+      "    <<endif>>",
+      "<<endif>>",
+      "",
+      "<<if $said_hello is 0>>",
+      "    ",
+      "BEWARE MORTAL! THIS PLACE IS NOT FOR THEE. TURN BACK, LEST YOU FORFEIT YOUR VERY SOUL! #line:10000001",
+      "",
+      "<<set $said_hello to 1>>",
+      "[[OptionSelect]]",
+      "<<else>>",
+      "[[Chat]]",
+      "<<endif>>",
+      ""
+    ],
+    "tags": "",
+    "colorID": 0,
+    "position": {
+      "x": 972,
+      "y": -1203
+    }
+  },
+  {
+    "title": "Quit",
+    "body": [
+      "<<typewriterMode off True True>>",
+      "<<releasePlayerFromConversation>>"
+    ],
+    "tags": "",
+    "colorID": 0,
+    "position": {
+      "x": 1246,
+      "y": -926
+    }
+  },
+  {
+    "title": "Chat",
+    "body": [
+      "<<pickRandomPath>>",
+      "<<Hello>>",
+      "<<Hi>>",
+      "<<Greetings>>",
+      "<<flushRandomPath>>"
+    ],
+    "tags": "",
+    "colorID": 0,
+    "position": {
+      "x": 464,
+      "y": -1209
+    }
+  },
+  {
+    "title": "Hello",
+    "body": [
+      "BEWARE MORTAL-- Oh, it's you. #line:10000002",
+      "[[OptionSelect]]",
+      ""
+    ],
+    "tags": "",
+    "colorID": 0,
+    "position": {
+      "x": 462,
+      "y": -985
+    }
+  },
+  {
+    "title": "OptionSelect",
+    "body": [
+      "[[Where is this place?|Location]] #line:10001100 ",
+      "[[Who are you?|WhoIs]] #line:10001200",
+      "<<if $Trial is null>>",
+      "[[Are you the one I give this application to?|Application]] #line:10001300",
+      "<<endif>>",
+      "<<if $Trial is 1 and $Intern is null>>",
+      "[[What did you need me to do again?|SheafOfSouls]]",
+      "[[I have the souls you wanted!|SoulTurnIn]] #line:10001400",
+      "<<endif>>",
+      "<<if $Intern is 1>>",
+      "[[So, can I pass now?|DeathsDue]] #line:10001500",
+      "<<endif>>",
+      "",
+      ""
+    ],
+    "tags": "",
+    "colorID": 0,
+    "position": {
+      "x": 980,
+      "y": -671
+    }
+  },
+  {
+    "title": "WhoIs",
+    "body": [
+      "I AM THE GRIM REAPER. I GATHER LOST SOULS AND FERRY THEM BEYOND THE VEIL. #line:10005310",
+      "And I handle the boats when someone needs them. #line:10005320",
+      "You can call me Sharon. #line:10005330",
+      "[[OptionSelect]]"
+    ],
+    "tags": "",
+    "colorID": 0,
+    "position": {
+      "x": 1455,
+      "y": -663
+    }
+  },
+  {
+    "title": "SheafOfSouls",
+    "body": [
+      "A Sheaf of Souls broke apart when I was loading my last ferry load. The slippery little things have gotten everywhere! #line:10015960",
+      "Gather 20 Mischievous Souls and I'll approve your promotion to an actual intern. #line:10015970",
+      "[[OptionSelect]]",
+      "",
+      ""
+    ],
+    "tags": "",
+    "colorID": 3,
+    "position": {
+      "x": 969,
+      "y": -173
+    }
+  },
+  {
+    "title": "Application",
+    "body": [
+      "<<branchPlayerDoesntHaveEnoughOfItem staxel.item.crafting.Egg 1 NoApplication>>",
+      "<<branchPlayerDoesntHaveEnoughOfItem staxel.item.crafting.Egg 1 NoPumpkinHat>>",
+      "<<branchPlayerDoesntHaveEnoughOfItem staxel.item.crafting.Egg 1 NoPumpkinScythe>>",
+      "Internship Application? Let me see that...#line:10015910",
+      "",
+      "<<removePlayerItem staxel.item.crafting.Egg 1>>",
+      "",
+      "Hmm...So Tiah thinks you have potential? #line:10015920",
+      "You do have traces of soul energy on you. And you have the equipment... #line:10015930",
+      "But you're mortal... #line:10015940",
+      "No, I'm afraid the best I can do is a trial internship. #line:10015950",
+      "<<set $Trial to 1>>",
+      "",
+      "[[SheafOfSouls]]",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": "",
+    "colorID": 4,
+    "position": {
+      "x": 981,
+      "y": -425
+    }
+  },
+  {
+    "title": "Location",
+    "body": [
+      "This is the gateway to the Hallow Isle, the land of the dead. #line:10005210 ",
+      "Mortals should not be able to come here. You must be very special... or very lost.#line:10005220 ",
+      "[[OptionSelect]] ",
+      ""
+    ],
+    "tags": "",
+    "colorID": 0,
+    "position": {
+      "x": 1213,
+      "y": -668
+    }
+  },
+  {
+    "title": "Hi",
+    "body": [
+      "COWER BEFORE DEATH! ...Too much? Too much. #line:10000003",
+      "[[OptionSelect]]"
+    ],
+    "tags": "",
+    "colorID": 0,
+    "position": {
+      "x": 461,
+      "y": -746
+    }
+  },
+  {
+    "title": "Greetings",
+    "body": [
+      "Hey. What's up? #line:10000004",
+      "[[OptionSelect]]"
+    ],
+    "tags": "",
+    "colorID": 0,
+    "position": {
+      "x": 463,
+      "y": -517
+    }
+  },
+  {
+    "title": "SoulTurnIn",
+    "body": [
+      "<<branchPlayerDoesntHaveEnoughOfItem staxel.item.crafting.Egg 20 NotEnoughSoul>>",
+      "",
+      "Wow! You found all of them?",
+      "I didn't think you could actually do it.",
+      "Most mortals can't see souls.",
+      "Right then, official time. ",
+      "YOU HAVE DONE WELL, MORTAL. YOU ARE WORTHY OF BEING AN INTERN.",
+      "<<removePlayerItem staxel.item.crafting.Egg 20>>",
+      "<<set $Intern to 1>>",
+      ""
+    ],
+    "tags": "",
+    "colorID": 3,
+    "position": {
+      "x": 1236,
+      "y": -174
+    }
+  },
+  {
+    "title": "NoPumpkinScythe",
+    "body": [
+      "Well, you have the right paperwork, and the snappy hat... #line:10023001",
+      "But you've forgotten the most important bit! #line:10023002",
+      "You need a proper pumpking branded scythe!  #line:10023003",
+      "You won't be able to gather more than the weakest souls without it!#line:10023004",
+      "Come back when you're ready to do the job.#line:10023005",
+      "[[Quit]]"
+    ],
+    "tags": "",
+    "colorID": 4,
+    "position": {
+      "x": 1778,
+      "y": -428
+    }
+  },
+  {
+    "title": "NoApplication",
+    "body": [
+      "What application? #line:10021100",
+      "I don't see any application. #line:10021200",
+      "....Mortal, are you deliberately wasting my eternity? #line:10021300",
+      "[[OptionSelect]]",
+      "",
+      ""
+    ],
+    "tags": "",
+    "colorID": 4,
+    "position": {
+      "x": 1241,
+      "y": -428
+    }
+  },
+  {
+    "title": "NoPumpkinHat",
+    "body": [
+      "Hmpf! So you have an application. #line:10022001",
+      "I'm not sure what Tiah was thinking! #line:10022002",
+      "You're not even dressed properly!  #line:10022003",
+      "Where's your emmisary Pumpkin hat so people will know what you are?#line:10022004",
+      "Come back when you have the proper equipment.#line:10022005",
+      "[[Quit]]"
+    ],
+    "tags": "",
+    "colorID": 4,
+    "position": {
+      "x": 1490,
+      "y": -429
+    }
+  },
+  {
+    "title": "NotEnoughSoul",
+    "body": [
+      "I said 20 Mischievous Souls. Not 19. Not 18. Not negative 5.",
+      "Come back when you can count.",
+      "[[Quit]]"
+    ],
+    "tags": "",
+    "colorID": 3,
+    "position": {
+      "x": 1506,
+      "y": -173
+    }
+  },
+  {
+    "title": "DeathsDue",
+    "body": [
+      "Yep! I can take you across. ",
+      "Toll, Please.",
+      "[[Toll? What toll?]]",
+      "[[I work here now!]]",
+      "Everyone pays. Don't be stingy. It's only a lousy 2P.",
+      "[[Quit]]",
+      ""
+    ],
+    "tags": "",
+    "colorID": 2,
+    "position": {
+      "x": 967,
+      "y": 66
+    }
+  },
+  {
+    "title": "NoDeathsDue",
+    "body": [
+      "...",
+      "......",
+      ".........",
+      "How are you so broke you can't even pay me a lousy 2P?",
+      "We haven't raised the price in millennia! ",
+      "Go sell a cricket or something!",
+      "[[Quit]]"
+    ],
+    "tags": "",
+    "colorID": 2,
+    "position": {
+      "x": 1208,
+      "y": 64
+    }
+  }
+]
